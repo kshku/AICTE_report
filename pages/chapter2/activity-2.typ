@@ -20,21 +20,21 @@
 
 #text(weight: "bold", size: 16pt)[2.6 Use of Technology]
 
-- Use of mobile phones/cameras to document the cleanliness activity.
-- Digital platforms can be used to create awareness about cleanliness and environmental protection.
-- Online resources were used to understand the importance of the Swachh Bharat Initiative and proper waste management.
-- Digital media can be used to spread awareness about maintaining clean beaches and public places.
-- Photographs and digital documentation can be used to encourage others to participate in similar environmental activities.
+- Use of *mobile phones and cameras* to document the cleanliness activity.
+- Use of *digital platforms* to create awareness about cleanliness and environmental protection.
+- Use of *online resources* to understand the Swachh Bharat Initiative and proper waste management.
+- Use of *digital media* to spread awareness about maintaining clean beaches and public places.
+- Use of *photographs and digital documentation* to encourage participation in similar activities.
 
 #text(weight: "bold", size: 16pt)[2.7 Sustainable Development Best Practices]
 
-- Promoting clean and healthy surroundings through active participation in beach cleaning.
-- Supporting SDG 11 – Sustainable Cities and Communities by encouraging cleaner and more sustainable public spaces.
-- Supporting SDG 14 – Life Below Water by reducing waste and pollution in coastal areas.
-- Creating awareness about the harmful effects of plastic and other waste on marine ecosystems.
-- Encouraging responsible waste disposal and environmentally friendly habits.
-- Developing a sense of civic and environmental responsibility among students.
-- Encouraging community participation in cleanliness and environmental conservation activities.
+- Promoting *clean and healthy surroundings* through active participation in beach cleaning.
+- Supporting *SDG 11 – Sustainable Cities and Communities* by encouraging cleaner and more sustainable public spaces.
+- Supporting *SDG 14 – Life Below Water* by reducing waste and pollution in coastal areas.
+- Creating awareness about the harmful effects of *plastic and other waste on marine ecosystems*.
+- Encouraging *responsible waste disposal* and environmentally friendly habits.
+- Developing a sense of *civic and environmental responsibility* among students.
+- Encouraging *community participation* in cleanliness and environmental conservation activities.
 
 #text(weight: "bold", size: 16pt)[2.8 Outcome of the Activity]
 

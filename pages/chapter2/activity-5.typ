@@ -20,23 +20,23 @@
 
 #text(weight: "bold", size: 16pt)[2.18 Use of Technology]
 
-- Use of photography and digital documentation to record the architectural and cultural features of the temple.
-- Use of social media platforms to promote lesser-known tourist destinations and cultural heritage sites.
-- Use of online maps and digital navigation tools to improve accessibility for visitors.
-- Creation and sharing of digital information about the history and cultural importance of the heritage site.
-- Use of websites and online platforms to provide information about tourist attractions, facilities, and travel routes.
-- Encouraging digital promotion to reach a wider audience and increase awareness of local tourism.
+- Use of *photography and digital documentation* to record the architectural and cultural features of the temple.
+- Use of *social media platforms* to promote lesser-known tourist destinations and cultural heritage sites.
+- Use of *online maps and digital navigation tools* to improve accessibility for visitors.
+- Creation and sharing of *digital information* about the history and cultural importance of the heritage site.
+- Use of *websites and online platforms* to provide information about tourist attractions, facilities, and travel routes.
+- Encouraging *digital promotion* to reach a wider audience and increase awareness of local tourism.
 
 #text(weight: "bold", size: 16pt)[2.19 Sustainable Development Best Practices]
 
-- Promoting sustainable and responsible tourism while preserving local culture and heritage.
-- Creating awareness about the importance of protecting historical and religious sites.
+- Promoting *sustainable and responsible tourism* while preserving local culture and heritage.
+- Creating awareness about the importance of protecting *historical and religious sites*.
 - Encouraging visitors to maintain cleanliness and avoid littering at heritage destinations.
-- Supporting local communities and businesses through responsible tourism activities.
-- Promoting cultural heritage and traditional practices among visitors and younger generations.
-- Supporting SDG 8 – Decent Work and Economic Growth by encouraging tourism-related local economic opportunities.
-- Supporting SDG 11 – Sustainable Cities and Communities through preservation of cultural and heritage sites.
-- Encouraging environmentally responsible tourism practices to reduce negative impacts on local surroundings.
+- Supporting *local communities and businesses* through responsible tourism activities.
+- Promoting *cultural heritage and traditional practices* among visitors and younger generations.
+- Supporting *SDG 8 – Decent Work and Economic Growth* through tourism-related local opportunities.
+- Supporting *SDG 11 – Sustainable Cities and Communities* through preservation of cultural and heritage sites.
+- Encouraging *environmentally responsible tourism practices* to reduce negative impacts on local surroundings.
 
 #text(weight: "bold", size: 16pt)[2.20 Outcome of the Activity]
 

@@ -22,23 +22,23 @@
 
 #text(weight: "bold", size: 16pt)[2.2 Use of Technology]
 
-- Training students in HTML and CSS for basic web page development.
-- Demonstration of Canva for designing posters, presentations, and creative content.
-- Use of Microsoft Office tools for preparing documents and presentations.
-- Introduction to G-Suite/Google Workspace and its productivity applications.
-- Use of digital presentations and practical demonstrations to make learning interactive.
-- Guidance on using technology for hackathon idea development and presentation.
-- Use of online and digital learning resources to encourage independent learning.
+- Training students in *HTML and CSS* for basic web page development.
+- Demonstration of *Canva* for designing posters, presentations, and creative content.
+- Use of *Microsoft Office tools* for preparing documents and presentations.
+- Introduction to *G-Suite/Google Workspace* and its productivity applications.
+- Use of *digital presentations and practical demonstrations* to make learning interactive.
+- Guidance on using technology for *hackathon idea development and presentation*.
+- Use of *online and digital learning resources* to encourage independent learning.
 
 #text(weight: "bold", size: 16pt)[2.3 Sustainable Development Best Practices]
 
-- Promoting Quality Education (SDG 4) by providing digital and technical education to rural students.
-- Reducing the digital knowledge gap by improving access to basic technology skills.
-- Encouraging students to use technology for education, creativity, and problem-solving.
-- Creating awareness about the Sustainable Development Goals (SDGs).
-- Developing communication, teamwork, creativity, and confidence among students.
-- Encouraging rural students to explore higher education and technology-oriented career opportunities.
-- Promoting responsible and productive use of digital tools.
+- Promoting *Quality Education (SDG 4)* by providing digital and technical education to rural students.
+- Reducing the *digital knowledge gap* by improving access to basic technology skills.
+- Encouraging students to use technology for *education, creativity, and problem-solving*.
+- Creating awareness about the *Sustainable Development Goals (SDGs)*.
+- Developing *communication, teamwork, creativity, and confidence* among students.
+- Encouraging rural students to explore *higher education and technology-oriented careers*.
+- Promoting *responsible and productive use of digital tools*.
 
 #text(weight: "bold", size: 16pt)[2.4 Outcome of the Activity]
 

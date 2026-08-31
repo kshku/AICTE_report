@@ -17,7 +17,7 @@
 
   #h(36pt)The AICTE Activity Point Programme offered a useful bridge between academic knowledge and community work. The five activities provided experience in digital education, environmental awareness, financial technology, household waste management, and local tourism.
 
-  #h(36pt)At the Summer Camp at Vivekananda College of Engineering and Technology, Puttur, rural students received practical exposure to HTML, CSS, Canva, Office Tools, G-Suite, and SDGs. Guidance on higher education and hackathon participation also encouraged creativity, communication, teamwork, and problem-solving.
+  #h(36pt)At the Summer Camp at Vivekananda College of Engineering and Technology, Puttur, rural students received practical exposure to HTML, CSS, Canva, Office Tools, G-Suite, and *SDGs*. Guidance on higher education and hackathon participation also encouraged creativity, communication, teamwork, and problem-solving.
 
   #h(36pt)The Swachh Bharat activity at Tannirbhavi Beach made the importance of cleanliness and coastal protection more tangible through direct participation. At a residence in interior Vitla, the garbage disposal activity introduced biogas, renewable energy, and the conversion of organic waste into manure.
 
