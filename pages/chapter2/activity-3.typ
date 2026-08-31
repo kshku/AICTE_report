@@ -22,23 +22,23 @@
 
 #text(weight: "bold", size: 16pt)[2.10 Use of Technology]
 
-#h(36pt)- Demonstration of *UPI-based digital payment* methods.
-#h(36pt)- Use of *QR codes* for quick and convenient payments.
-#h(36pt)- Awareness about *mobile banking and digital wallets*.
-#h(36pt)- Demonstration of checking digital transaction status and payment confirmations.
-#h(36pt)- Use of smartphones and internet connectivity for electronic transactions.
-#h(36pt)- Creating awareness about *digital payment security*, including protecting UPI PINs and transaction details.
+- Demonstration of *UPI-based digital payment* methods.
+- Use of *QR codes* for quick and convenient payments.
+- Awareness about *mobile banking and digital wallets*.
+- Demonstration of checking digital transaction status and payment confirmations.
+- Use of smartphones and internet connectivity for electronic transactions.
+- Creating awareness about *digital payment security*, including protecting UPI PINs and transaction details.
 
 #text(weight: "bold", size: 16pt)[2.11 Sustainable Development Best Practices]
 
-#h(36pt)- Promoting *cashless and paperless financial transactions*.
-#h(36pt)- Encouraging the adoption of digital technology in local businesses.
-#h(36pt)- Improving awareness and accessibility of *digital financial services*.
-#h(36pt)- Reducing dependence on physical cash and associated handling requirements.
-#h(36pt)- Encouraging secure and responsible use of digital payment platforms.
-#h(36pt)- Supporting *SDG 8 – Decent Work and Economic Growth* by promoting digital financial inclusion and efficient transactions.
-#h(36pt)- Supporting *SDG 9 – Industry, Innovation and Infrastructure* through the adoption of digital technologies.
-#h(36pt)- Encouraging financial and technological literacy within the local community.
+- Promoting *cashless and paperless financial transactions*.
+- Encouraging the adoption of digital technology in local businesses.
+- Improving awareness and accessibility of *digital financial services*.
+- Reducing dependence on physical cash and associated handling requirements.
+- Encouraging secure and responsible use of digital payment platforms.
+- Supporting *SDG 8 – Decent Work and Economic Growth* by promoting digital financial inclusion and efficient transactions.
+- Supporting *SDG 9 – Industry, Innovation and Infrastructure* through the adoption of digital technologies.
+- Encouraging financial and technological literacy within the local community.
 
 #text(weight: "bold", size: 16pt)[2.12 Outcome of the Activity]
 
