@@ -1,0 +1,71 @@
+#let name-title = "Mr."
+#let name = "K Shreekrishna Upadhyaya"
+#let usn = "4VP23AI020"
+
+#let completed-activities = (
+  (
+    table-num: 1,
+    title: "Helping Schools Improve Academic Outcomes",
+    from: "02/05/2024",
+    to: "21/05/2024",
+    weeks: 2,
+    hours: 80,
+    points: "",
+    image: "/assets/Activity1.jpg",
+    caption: "Activity in progress at school",
+    certificate: "/assets/Activity-1-Certificate.pdf",
+    has-image: true,
+  ),
+  (
+    table-num: 15,
+    title: "Contributing to National Initiatives (Digital India, Skill India, Swachh Bharat)",
+    from: "07/10/2025",
+    to: "07/10/2025",
+    weeks: 2,
+    hours: 80,
+    points: "",
+    image: "/assets/Activity2.jpg",
+    caption: "Participation in national initiative activity",
+    certificate: "/assets/Activity-2-Certificate.pdf",
+    has-image: true,
+  ),
+  (
+    table-num: 8,
+    title: "Facilitating 100% Digitized Money Transactions",
+    from: "20/11/2025",
+    to: "20/11/2025",
+    weeks: 2,
+    hours: 80,
+    points: "",
+    image: "/assets/Activity3.jpg",
+    caption: "Digital transaction awareness activity",
+    certificate: "/assets/Activity-3-Certificate.pdf",
+    has-image: true,
+  ),
+  (
+    table-num: 10,
+    title: "Managing and Developing Garbage Disposal Systems",
+    from: "13/12/2025",
+    to: "13/12/2025",
+    weeks: 2,
+    hours: 80,
+    points: "",
+    image: "/assets/Activity4.jpg",
+    caption: "Garbage disposal awareness activity",
+    certificate: "/assets/Activity-4-Certificate.pdf",
+    has-image: true,
+  ),
+  (
+    table-num: 4,
+    title: "Tourism Promotion and Innovative Approaches",
+    from: "28/12/2025",
+    to: "28/12/2025",
+    weeks: "",
+    hours: "",
+    points: "",
+    image: "/assets/Activity5.jpg",  // NOTE: photo not ready yet, will add later
+    caption: "Tourism promotion activity",
+    certificate: "/assets/Activity-5-Certificate.pdf",
+    has-image: false,               // no photo yet
+  ),
+)
