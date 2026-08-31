@@ -10,13 +10,13 @@
 #for a in completed-activities {
   pagebreak()
   chapter-page[
-    set par(justify: true)
-    text(weight: "bold", size: 16pt)[4.#a.report-num Activity #a.report-num: #a.title]
-    v(3mm)
-    align(center, text(size: 10pt)[#a.caption])
-    v(4mm)
-    align(center, image(a.image, width: 150mm, fit: "contain"))
-    v(1fr)
+    #set par(justify: true)
+    #text(weight: "bold", size: 16pt)[4.#a.report-num Activity #a.report-num: #a.title]
+    #v(3mm)
+    #align(center, text(size: 10pt)[#a.caption])
+    #v(4mm)
+    #align(center, image(a.image, width: 150mm, fit: "contain"))
+    #v(1fr)
   ]
 }
 
