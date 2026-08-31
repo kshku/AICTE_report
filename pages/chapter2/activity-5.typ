@@ -8,15 +8,15 @@
 
 #text(weight: "bold", size: 16pt)[2.17 Overview]
 
-#h(36pt)This activity was conducted as part of the *AICTE Activity Point Programme* with the objective of understanding and promoting local tourism through innovative and sustainable approaches. The activity, titled *"Tourism Promotion and Innovative Approaches,"* was carried out at *Shri Anjaneya Temple, Bolwar, Puttur*, with a focus on discovering and documenting a lesser-known but historically significant religious institution of the region.
+#h(36pt)Through the *AICTE Activity Point Programme*, this activity examined ways to promote local tourism while respecting sustainability and heritage. The work, titled *"Tourism Promotion and Innovative Approaches,"* was carried out at *Shri Anjaneya Temple, Bolwar, Puttur*, a lesser-known religious and historical site.
 
-#h(36pt)The main objective of the activity was to create awareness about the historical, cultural, and religious significance of local heritage sites that often go unnoticed despite their importance. The temple, though old and culturally rich, had not received the attention and recognition it deserved as a tourist and heritage destination.
+#h(36pt)The main intention was to bring attention to the historical, cultural, and religious value of heritage places that are often overlooked. Although the temple is old and culturally significant, its potential as a heritage and tourism destination has not been widely recognized.
 
-#h(36pt)During the activity, the architectural features, historical background, and cultural importance of the temple were explored and documented. Innovative approaches for tourism promotion, such as digital awareness, photography, online information sharing, and social media promotion, were discussed as effective methods for reaching a wider audience and attracting visitors to lesser-known destinations.
+#h(36pt)The temple’s architecture, background, and cultural importance were observed and documented. The activity considered photography, digital awareness, online information sharing, and social media as practical ways to introduce lesser-known destinations to a wider audience.
 
 #h(36pt)The activity also emphasized the importance of *responsible tourism*. Participants were encouraged to understand the need to maintain cleanliness, respect local traditions, protect heritage structures, and support the local community while promoting tourism.
 
-#h(36pt)Overall, the activity helped in understanding how technology, creativity, cultural awareness, and sustainable practices can be combined to promote local tourism effectively and bring attention to forgotten places of cultural and historical importance.
+#h(36pt)This activity demonstrated that technology and creative communication can work together with cultural awareness and responsible practices to promote local tourism and preserve neglected heritage locations.
 
 #text(weight: "bold", size: 16pt)[2.18 Use of Technology]
 

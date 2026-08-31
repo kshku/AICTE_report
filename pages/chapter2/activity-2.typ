@@ -8,11 +8,11 @@
 
 #text(weight: "bold", size: 16pt)[2.5 Overview]
 
-#h(36pt)This activity was conducted as part of the Swachh Bharat Initiative of the Government of India with the objective of promoting cleanliness, environmental responsibility, and awareness among students and the public. The activity was held at Tannirbhavi Beach, Mangaluru, in association with the Department of Tourism, Mangalore, where students actively participated in maintaining cleanliness and contributing towards a cleaner environment.
+#h(36pt)Under the Government of India’s Swachh Bharat Initiative, this activity was organized at Tannirbhavi Beach, Mangaluru, in association with the Department of Tourism, Mangalore. Its purpose was to encourage cleanliness, civic participation, and environmental responsibility among students and members of the public.
 
-#h(36pt)The programme focused on creating awareness about the importance of keeping public places and coastal areas clean. During the activity, participants took part in beach cleaning and removal of waste, helping to reduce litter and maintain the cleanliness of the surrounding area.
+#h(36pt)Participants cleaned the beach and removed accumulated waste, gaining a direct understanding of the effort required to maintain public and coastal spaces. The activity also highlighted how litter affects the appearance and health of such places.
 
-#h(36pt)The activity also provided an opportunity to understand the harmful effects of improper waste disposal on the environment, particularly on marine and coastal ecosystems. Students were encouraged to adopt responsible waste-management practices and to motivate others to maintain cleanliness in their surroundings.
+#h(36pt)Discussions during the programme explained the damage caused by careless disposal, especially to marine and coastal ecosystems. Students were encouraged to practise proper waste management and influence people around them to keep shared spaces clean.
 
 #h(36pt)Active participation in the Swachh Bharat activity helped develop a sense of social responsibility, environmental awareness, teamwork, and civic responsibility among the participants. The programme emphasized that maintaining cleanliness is a collective responsibility and that small individual efforts can contribute significantly to environmental protection.
 

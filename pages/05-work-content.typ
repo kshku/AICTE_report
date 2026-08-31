@@ -1,23 +1,26 @@
 #import "../theme/styles.typ": *
+#import "../vars.typ": completed-activities
+
+#let activity-date(index) = completed-activities.at(index).date-range
 
 #set par(leading: 0.65em)
 
 #let activities = (
-  ("1", "Helping local schools to achieve good result & enhance their enrolment in Higher/ Technical/ Vocational Education", "05-05-2025 – 17-05-2025", "2", "80"),
+  ("1", "Helping local schools to achieve good result & enhance their enrolment in Higher/ Technical/ Vocational Education", activity-date(0), "2", "80"),
   ("2", "Preparing an actionable business proposal for enhancing the village income", "", "", ""),
   ("3", "Developing Sustainable Water Management system", "", "", ""),
-  ("4", "Tourism Promotion Innovative Approaches", "", "2", "80"),
+  ("4", "Tourism Promotion Innovative Approaches", activity-date(4), "2", "80"),
   ("5", "Promotion of Appropriate Technologies", "", "", ""),
   ("6", "Reduction in Energy Consumption", "", "", ""),
   ("7", "To Skill rural population", "", "", ""),
-  ("8", "Facilitating 100% Digitized money transactions", "20-11-2025 – 04-12-2025", "2", "80"),
+  ("8", "Facilitating 100% Digitized money transactions", activity-date(2), "2", "80"),
   ("9", "Setting of the information imparting club for women leading to contribution in social and economic issues", "", "", ""),
-  ("10", "Developing and managing efficient garbage disposal system", "13-12-2025 – 27-12-2025", "2", "80"),
+  ("10", "Developing and managing efficient garbage disposal system", activity-date(3), "2", "80"),
   ("11", "To assist the marketing of rural produce", "", "", ""),
   ("12", "Food preservation/packaging", "", "", ""),
   ("13", "Automation of local activities", "", "", ""),
   ("14", "Spreading public awareness under rural outreach programmes", "", "", ""),
-  ("15", "Contribution to any national level initiative of Government of India, For e.g. Digital India/ Skill India/ Swachh Bharat Internish etc", "07-10-2025 – 21-10-2025", "2", "80"),
+  ("15", "Contribution to any national level initiative of Government of India, For e.g. Digital India/ Skill India/ Swachh Bharat Internish etc", activity-date(1), "2", "80"),
   ("16", "Creating an awareness regarding rain water harvesting in urban and rural area", "", "", ""),
 )
 

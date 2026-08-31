@@ -21,7 +21,7 @@
 #h(14.8pt)I, *#name-title #name* bearing the *USN*:*#usn*, student of Bachelor of Engineering in *Artificial Intelligence & Machine Learning, Vivekananda College of Engineering & Technology, Puttur ,* hereby declare that the *AICTE Activity Point Programme* work has been carried out by me under the supervision and guidance of Department Staff Coordinators submitted by me as a partial fulfillment for the award of *Bachelor of Engineering* degree in *Artificial Intelligence & Machine Learning* from *Visvesvaraya Technological University, Belagavi* during year *2027.*
 
 #v(4mm)
-#h(51pt)I hereby declared that the AICTE activity point work has been carried out at following partner organizations:
+I hereby declared that the AICTE activity point work has been carried out at following partner organizations:
 
 #v(2mm)
 #set par(justify: false)

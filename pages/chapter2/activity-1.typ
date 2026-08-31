@@ -8,15 +8,15 @@
 
 #text(weight: "bold", size: 16pt)[2.1 Overview]
 
-#h(36pt)This activity was conducted as part of a summer camp organized by Akanksha Charitable Trust, Puttur, in collaboration with Vivekananda College of Engineering and Technology (VCET), Puttur, and Tata Consultancy Services (TCS). The programme was conducted from 05-05-2025 to 17-05-2025 with the objective of providing rural students with basic digital knowledge, improving their technical skills, and creating awareness about future educational and career opportunities.
+#h(36pt)As part of a summer camp organized by Akanksha Charitable Trust, Puttur, with VCET, Puttur, and Tata Consultancy Services (TCS), this activity supported the educational development of rural students. It was held from 05-05-2025 to 17-05-2025 and aimed to introduce useful digital skills while motivating students to think about higher education and future careers.
 
-#h(36pt)During the programme, rural students were trained in various digital and productivity-oriented skills. The sessions focused on introducing students to HTML, CSS, Canva, Office Tools, G-Suite, and Sustainable Development Goals (SDGs). The concepts were explained through practical demonstrations and interactive activities so that the students could easily understand and apply the skills.
+#h(36pt)The camp covered practical and productivity-oriented topics including HTML, CSS, Canva, Office Tools, G-Suite, and the Sustainable Development Goals (SDGs). Demonstrations, discussions, and interactive exercises were used to make these topics accessible and useful to the participating students.
 
-#h(36pt)The students were introduced to the basics of web development using HTML and CSS, which helped them understand how simple web pages are created and designed. They were also trained in Canva for creating posters, presentations, and other creative digital content. Basic Office Tools and G-Suite applications were demonstrated to improve their productivity and familiarity with commonly used digital platforms.
+#h(36pt)Through HTML and CSS, the students learned how a basic web page is structured and styled. Canva activities encouraged them to create posters, presentations, and other digital material, while Office Tools and G-Suite demonstrations improved their familiarity with everyday productivity platforms.
 
-#h(36pt)As part of the programme, students were also guided and encouraged to participate in a hackathon. They were introduced to basic problem-solving, idea development, teamwork, and presentation skills required for a hackathon. This provided them with an opportunity to apply their newly acquired knowledge to practical problems.
+#h(36pt)The students were also encouraged to take part in a hackathon. Guidance was provided on identifying problems, developing ideas, working in teams, and presenting solutions, allowing them to apply their new knowledge in a practical setting.
 
-#h(36pt)The programme also created awareness about the Sustainable Development Goals (SDGs) and their importance in addressing social, economic, and environmental challenges. Interactive discussions and practical activities helped students gain confidence and develop interest in technology and learning.
+#h(36pt)Sessions on the Sustainable Development Goals connected technology learning with social, economic, and environmental concerns. The discussions and activities helped the students become more confident and interested in continued learning.
 
 #h(36pt)Overall, the summer camp successfully contributed to improving the digital literacy, creativity, communication, problem-solving ability, and confidence of rural students. The activity also encouraged students to explore technology as a tool for education and future career development.
 

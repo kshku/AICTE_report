@@ -8,13 +8,13 @@
 
 #text(weight: "bold", size: 16pt)[2.13 Overview]
 
-#h(36pt)This activity was conducted as part of the *AICTE Activity Point Programme* with the objective of understanding and promoting sustainable waste management practices at the household level. The activity, titled *"Managing and Developing Garbage Disposal Systems,"* was carried out at a local residence in interior Vitla, with a focus on encouraging the installation of a biogas compost unit as an effective and environmentally friendly method of waste disposal.
+#h(36pt)This activity was undertaken through the *AICTE Activity Point Programme* to study practical household-level waste management. It was conducted at a residence in interior Vitla under the title *"Managing and Developing Garbage Disposal Systems,"* with particular attention to the possible installation and use of a biogas compost unit.
 
-#h(36pt)The main objective of the activity was to create awareness about the importance of proper household waste management and to introduce the concept of biogas generation as a sustainable solution for disposing of organic waste. The activity focused on explaining how biogas systems work, their benefits for households, and their positive impact on the environment.
+#h(36pt)The activity explained why organic household waste should be handled systematically and introduced biogas generation as a sustainable alternative. The working principle, household benefits, and environmental value of a biogas system were discussed in an easy-to-understand manner.
 
-#h(36pt)During the activity, the benefits of biogas compost units were explained, including the reduction of household waste, the generation of renewable energy in the form of cooking gas, and the production of organic manure for agricultural use. The process of setting up and maintaining a biogas unit was discussed in a simple and practical manner.
+#h(36pt)The discussion covered how a biogas compost unit can reduce household waste, produce cooking gas, and yield organic manure for agriculture. Basic requirements for setting up and maintaining such a unit were also considered.
 
-#h(36pt)The activity highlighted several advantages of biogas systems, including reduced dependence on firewood and LPG, lower waste disposal costs, improved sanitation, and a cleaner local environment. Awareness was also created about the environmental benefits of diverting organic waste from landfills and open dumpsites.
+#h(36pt)Biogas systems can reduce dependence on firewood and LPG while lowering disposal costs and improving household sanitation. Diverting organic waste from open dumping and landfills also helps create a cleaner local environment.
 
 #h(36pt)Overall, the activity contributed towards promoting sustainable household waste management and encouraged the adoption of environmentally responsible practices for garbage disposal in local communities.
 

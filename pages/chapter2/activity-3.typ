@@ -8,13 +8,13 @@
 
 #text(weight: "bold", size: 16pt)[2.9 Overview]
 
-#h(36pt)This activity was conducted as part of the *AICTE Activity Point Programme* with the objective of creating awareness about digital payment methods and encouraging the use of cashless transactions. The activity, titled *"Facilitating 100% Digitized Money Transactions,"* was carried out among local rickshaw drivers and was completed on *20-11-2025*.
+#h(36pt)As part of the *AICTE Activity Point Programme*, this activity promoted awareness of electronic payments and the practical use of cashless transactions. Titled *"Facilitating 100% Digitized Money Transactions,"* it was conducted among local rickshaw drivers and commenced on *20-11-2025*.
 
-#h(36pt)The main objective of the activity was to promote the use of *digital payment systems* among local workers and residents. The activity focused on creating awareness about convenient and secure methods of making payments without using physical cash.
+#h(36pt)The interaction aimed to help local workers and residents become comfortable with *digital payment systems*. Emphasis was placed on payment methods that are convenient, quick, and safe without requiring physical cash.
 
-#h(36pt)During the activity, the importance and benefits of digital transactions were explained. Rickshaw drivers were encouraged to use *UPI, QR-code-based payments, mobile banking, and other electronic payment methods* for their daily transactions. The process of making digital payments and checking transaction status was also explained in a simple and practical manner.
+#h(36pt)The rickshaw drivers were shown how *UPI, QR-code payments, mobile banking, and other electronic methods* could be used in their regular work. The steps for making a payment and confirming its status were explained through simple practical guidance.
 
-#h(36pt)The activity highlighted several advantages of digital payments, including *faster transactions, reduced dependence on cash, easy record keeping, convenience, and improved accessibility to financial services*. Awareness was also created regarding the importance of verifying the recipient's details before making a payment and keeping payment credentials such as UPI PINs secure.
+#h(36pt)The discussion covered benefits such as *speed, convenience, reduced cash handling, easier records, and improved access to financial services*. Participants were also reminded to check recipient details and never disclose security information such as their UPI PIN.
 
 #h(36pt)The initiative helped promote the adoption of digital payment practices in the local community and encouraged people to become more comfortable with technology-based financial transactions.
 

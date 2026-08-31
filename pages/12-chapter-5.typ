@@ -15,11 +15,11 @@
 
   #v(4mm)
 
-  #h(36pt)The AICTE Activity Point Programme provided valuable practical exposure by allowing the application of knowledge and skills in real-world situations. Through the different activities carried out in areas such as digital education, environmental awareness, sustainable waste management, tourism promotion, and digital financial awareness, a better understanding of their importance in society was developed.
+  #h(36pt)The AICTE Activity Point Programme offered a useful bridge between academic knowledge and community work. The five activities provided experience in digital education, environmental awareness, financial technology, household waste management, and local tourism.
 
-  #h(36pt)The Summer Camp at Vivekananda College of Engineering and Technology, Puttur provided an opportunity to support rural students by imparting practical knowledge in HTML, CSS, Canva, Office Tools, G-Suite, and SDGs. The activities related to higher education, career awareness, and hackathon participation helped in developing their digital skills, creativity, problem-solving ability, teamwork, and communication skills.
+  #h(36pt)At the Summer Camp at Vivekananda College of Engineering and Technology, Puttur, rural students received practical exposure to HTML, CSS, Canva, Office Tools, G-Suite, and SDGs. Guidance on higher education and hackathon participation also encouraged creativity, communication, teamwork, and problem-solving.
 
-  #h(36pt)Participation in the Swachh Bharat Initiative at Tannirbhavi Beach provided practical awareness about cleanliness, proper waste disposal, and environmental protection. The garbage disposal activity at a local residence in interior Vitla provided useful insights into sustainable waste management, biogas generation, renewable energy, and production of organic manure.
+  #h(36pt)The Swachh Bharat activity at Tannirbhavi Beach made the importance of cleanliness and coastal protection more tangible through direct participation. At a residence in interior Vitla, the garbage disposal activity introduced biogas, renewable energy, and the conversion of organic waste into manure.
 
   #h(36pt)The tourism promotion activity at Shri Anjaneya Temple, Bolwar, Puttur provided an understanding of the importance of cultural heritage and innovative approaches for promoting local tourism. The digital money transaction activity among local rickshaw drivers helped in understanding the use of UPI, QR-code payments, mobile banking, and the importance of digital literacy and secure cashless transactions.
 
