@@ -1,16 +1,16 @@
 #import "../../theme/styles.typ": *
 #import "../../theme/components.typ": activity-title
 
-#activity-title(centered: true)[Conducting Summer Camp for Rural Students to Enhance Digital Skills and Awareness]
+#activity-title(centered: true)[Helping Local Schools to Achieve Good Results and Enhance Enrolment in Higher, Technical and Vocational Education]
 
 #v(4mm)
 #set par(justify: true)
 
 #text(weight: "bold", size: 16pt)[2.1 Overview]
 
-#h(36pt)This activity was conducted as part of a summer camp organized by Akanksha Charitable Trust, Puttur, in collaboration with Vivekananda College of Engineering and Technology (VCET), Puttur, and Tata Consultancy Services (TCS). The programme was conducted from 02-05-2024 to 21-05-2024 with the objective of providing rural students with basic digital knowledge, improving their technical skills, and creating awareness about future educational and career opportunities.
+#h(36pt)This activity was conducted as part of a summer camp organized by Akanksha Charitable Trust, Puttur, in collaboration with Vivekananda College of Engineering and Technology (VCET), Puttur, and Tata Consultancy Services (TCS). The programme was conducted from 05-05-2025 to 17-05-2025 with the objective of providing rural students with basic digital knowledge, improving their technical skills, and creating awareness about future educational and career opportunities.
 
-#h(36pt)During the programme, 30 rural students were trained in various digital and productivity-oriented skills. The sessions focused on introducing students to HTML, CSS, Canva, Office Tools, G-Suite, and Sustainable Development Goals (SDGs). The concepts were explained through practical demonstrations and interactive activities so that the students could easily understand and apply the skills.
+#h(36pt)During the programme, rural students were trained in various digital and productivity-oriented skills. The sessions focused on introducing students to HTML, CSS, Canva, Office Tools, G-Suite, and Sustainable Development Goals (SDGs). The concepts were explained through practical demonstrations and interactive activities so that the students could easily understand and apply the skills.
 
 #h(36pt)The students were introduced to the basics of web development using HTML and CSS, which helped them understand how simple web pages are created and designed. They were also trained in Canva for creating posters, presentations, and other creative digital content. Basic Office Tools and G-Suite applications were demonstrated to improve their productivity and familiarity with commonly used digital platforms.
 
@@ -42,6 +42,6 @@
 
 #text(weight: "bold", size: 16pt)[2.4 Outcome of the Activity]
 
-#h(36pt)The summer camp provided 30 rural students with practical exposure to essential digital and productivity tools. Students gained basic knowledge of web development, digital designing, office applications, and online collaboration tools. The hackathon guidance further helped them improve their problem-solving, teamwork, creativity, and presentation skills. The programme successfully enhanced their digital awareness and encouraged them to consider technology and higher education as pathways for their future development.
+#h(36pt)The summer camp provided rural students with practical exposure to essential digital and productivity tools. Students gained basic knowledge of web development, digital designing, office applications, and online collaboration tools. The hackathon guidance further helped them improve their problem-solving, teamwork, creativity, and presentation skills. The programme successfully enhanced their digital awareness and encouraged them to consider technology and higher education as pathways for their future development.
 
 #set par(justify: false)

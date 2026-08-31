@@ -26,10 +26,10 @@
 #v(2mm)
 #set par(justify: false)
 1. Akanksha Charitable Trust \
-2. Tannirbhavi Beach \
-// 3. \
-// 4. Shri Mahalingeshwara Temple \
-// 5. Trinity General store
+2. Department of Tourism, Mangalore \
+3. Local rickshaw drivers \
+4. A local residence, interior Vitla \
+5. Shri Anjaneya Temple, Bolwar, Puttur
 
 #v(14mm)
 #pad(left: 117mm)[

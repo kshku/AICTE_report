@@ -1,45 +1,45 @@
 #import "../../theme/styles.typ": *
 #import "../../theme/components.typ": activity-title
 
-#activity-title(centered: true)[Tourism Promotion – Innovative Approaches]
+#activity-title(centered: true)[Managing and Developing Garbage Disposal Systems]
 
 #v(4mm)
 #set par(justify: true)
 
 #text(weight: "bold", size: 16pt)[2.13 Overview]
 
-#h(36pt)This activity was conducted as part of the *AICTE Activity Point Programme* with the objective of understanding and promoting tourism through innovative and sustainable approaches. The activity, titled *"Tourism Promotion Innovative Approaches,"* was carried out at *Shri Mahaalingeshwara Temple, Puttur*, with a focus on understanding the importance of local tourism and cultural heritage.
+#h(36pt)This activity was conducted as part of the *AICTE Activity Point Programme* with the objective of understanding and promoting sustainable waste management practices at the household level. The activity, titled *"Managing and Developing Garbage Disposal Systems,"* was carried out at a local residence in interior Vitla, with a focus on encouraging the installation of a biogas compost unit as an effective and environmentally friendly method of waste disposal.
 
-#h(36pt)The activity aimed to create awareness about the *historical, cultural, religious, and tourism significance* of local heritage sites. Students explored ways in which important tourist and cultural places can be promoted to attract visitors while preserving their traditional and cultural values.
+#h(36pt)The main objective of the activity was to create awareness about the importance of proper household waste management and to introduce the concept of biogas generation as a sustainable solution for disposing of organic waste. The activity focused on explaining how biogas systems work, their benefits for households, and their positive impact on the environment.
 
-#h(36pt)Innovative approaches for tourism promotion, such as *digital awareness, social media promotion, photography, online information sharing, and digital mapping*, were considered useful methods for reaching a wider audience. These approaches can help provide tourists with information about the location, history, facilities, and cultural significance of tourist destinations.
+#h(36pt)During the activity, the benefits of biogas compost units were explained, including the reduction of household waste, the generation of renewable energy in the form of cooking gas, and the production of organic manure for agricultural use. The process of setting up and maintaining a biogas unit was discussed in a simple and practical manner.
 
-#h(36pt)The activity also emphasized the importance of *responsible tourism*. Students were encouraged to understand the need to maintain cleanliness, respect local traditions, protect heritage structures, and support the local community while promoting tourism.
+#h(36pt)The activity highlighted several advantages of biogas systems, including reduced dependence on firewood and LPG, lower waste disposal costs, improved sanitation, and a cleaner local environment. Awareness was also created about the environmental benefits of diverting organic waste from landfills and open dumpsites.
 
-#h(36pt)Overall, the activity helped students understand how *technology, creativity, cultural awareness, and sustainable practices* can be combined to promote local tourism effectively and responsibly.
+#h(36pt)Overall, the activity contributed towards promoting sustainable household waste management and encouraged the adoption of environmentally responsible practices for garbage disposal in local communities.
 
 #text(weight: "bold", size: 16pt)[2.14 Use of Technology]
 
-- Use of *social media platforms* to promote tourist destinations and cultural heritage sites.
-- Use of *photography and digital content* to showcase the attractions of tourist places.
-- Use of *online maps and digital navigation tools* to improve accessibility for visitors.
-- Creation and sharing of digital information about the *history and cultural importance* of tourist destinations.
-- Use of websites and online platforms to provide information about *tourist attractions, facilities, and travel routes*.
-- Encouraging digital promotion to reach a wider audience and increase awareness of local tourism.
+- Awareness about biogas generation technology and how organic waste is converted into cooking gas.
+- Understanding the components of a biogas unit including the digester, gas outlet, and slurry outlet.
+- Discussion on renewable energy sources and their role in reducing dependence on fossil fuels.
+- Use of digital resources to learn about sustainable waste management and biogas installation procedures.
+- Understanding the role of organic manure produced by biogas systems in supporting sustainable agriculture.
+- Encouraging the use of locally available materials for setting up low-cost waste management systems.
 
 #text(weight: "bold", size: 16pt)[2.15 Sustainable Development Best Practices]
 
-- Promoting *sustainable and responsible tourism* while preserving local culture and heritage.
-- Creating awareness about the importance of protecting *historical and religious sites*.
-- Encouraging tourists to maintain cleanliness and avoid littering at tourist destinations.
-- Supporting *local communities and businesses* through responsible tourism activities.
-- Promoting cultural heritage and traditional practices among visitors and younger generations.
-- Supporting *SDG 8 – Decent Work and Economic Growth* by encouraging tourism-related local economic opportunities.
-- Supporting *SDG 11 – Sustainable Cities and Communities* through preservation of cultural and heritage sites.
-- Encouraging environmentally responsible tourism practices to reduce negative impacts on local surroundings.
+- Promoting sustainable waste management at the household and community level.
+- Supporting SDG 11 – Sustainable Cities and Communities through improved waste disposal practices.
+- Supporting SDG 12 – Responsible Consumption and Production by encouraging reduction and recycling of waste.
+- Supporting SDG 13 – Climate Action by reducing methane emissions from open waste decomposition.
+- Encouraging the use of renewable energy through biogas generation.
+- Reducing environmental pollution caused by improper garbage disposal and open dumping.
+- Promoting circular economy principles by converting waste into useful energy and manure.
+- Creating awareness about the long-term environmental and economic benefits of biogas systems for households.
 
 #text(weight: "bold", size: 16pt)[2.16 Outcome of the Activity]
 
-#h(36pt)The activity provided valuable knowledge about the importance of *tourism promotion, cultural heritage preservation, and sustainable tourism practices*. Students gained an understanding of how digital technology and innovative promotional methods can be used to increase awareness of local tourist destinations. The activity also encouraged students to respect cultural heritage, promote responsible tourism, and understand the potential of tourism to support local communities and economic development.
+#h(36pt)The activity successfully created awareness about sustainable garbage disposal systems and the benefits of biogas compost units among the household members. Participants gained practical understanding of how biogas technology works, its advantages for waste reduction, energy generation, and environmental protection. The activity encouraged the adoption of environmentally responsible waste management practices and highlighted the importance of using renewable energy solutions at the household level.
 
 #set par(justify: false)

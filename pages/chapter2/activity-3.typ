@@ -8,11 +8,11 @@
 
 #text(weight: "bold", size: 16pt)[2.9 Overview]
 
-#h(36pt)This activity was conducted as part of the *AICTE Activity Point Programme* with the objective of creating awareness about digital payment methods and encouraging the use of cashless transactions. The activity, titled *"Facilitating 100% Digitized Money Transactions,"* was carried out at *Trinity General Store & Vegetables, Nehru Nagara, Puttur*, and was completed on *23-08-2025*.
+#h(36pt)This activity was conducted as part of the *AICTE Activity Point Programme* with the objective of creating awareness about digital payment methods and encouraging the use of cashless transactions. The activity, titled *"Facilitating 100% Digitized Money Transactions,"* was carried out among local rickshaw drivers and was completed on *20-11-2025*.
 
-#h(36pt)The main objective of the activity was to promote the use of *digital payment systems* among local shopkeepers and customers. The activity focused on creating awareness about convenient and secure methods of making payments without using physical cash.
+#h(36pt)The main objective of the activity was to promote the use of *digital payment systems* among local workers and residents. The activity focused on creating awareness about convenient and secure methods of making payments without using physical cash.
 
-#h(36pt)During the activity, the importance and benefits of digital transactions were explained. Customers and shopkeepers were encouraged to use *UPI, QR-code-based payments, mobile banking, and other electronic payment methods* for their daily transactions. The process of making digital payments and checking transaction status was also explained in a simple and practical manner.
+#h(36pt)During the activity, the importance and benefits of digital transactions were explained. Rickshaw drivers were encouraged to use *UPI, QR-code-based payments, mobile banking, and other electronic payment methods* for their daily transactions. The process of making digital payments and checking transaction status was also explained in a simple and practical manner.
 
 #h(36pt)The activity highlighted several advantages of digital payments, including *faster transactions, reduced dependence on cash, easy record keeping, convenience, and improved accessibility to financial services*. Awareness was also created regarding the importance of verifying the recipient's details before making a payment and keeping payment credentials such as UPI PINs secure.
 
@@ -42,6 +42,6 @@
 
 #text(weight: "bold", size: 16pt)[2.12 Outcome of the Activity]
 
-#h(36pt)The activity successfully created awareness about *digital payment methods and cashless transactions* among local shopkeepers and customers. Participants gained practical knowledge of UPI, QR-code payments, mobile banking, and basic digital payment security. The programme encouraged the adoption of convenient, efficient, and technology-driven financial transactions and contributed towards building a more *digitally aware and financially inclusive community*.
+#h(36pt)The activity successfully created awareness about *digital payment methods and cashless transactions* among local rickshaw drivers and residents. Participants gained practical knowledge of UPI, QR-code payments, mobile banking, and basic digital payment security. The programme encouraged the adoption of convenient, efficient, and technology-driven financial transactions and contributed towards building a more *digitally aware and financially inclusive community*.
 
 #set par(justify: false)

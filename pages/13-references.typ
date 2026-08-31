@@ -15,6 +15,6 @@
 
   [3] Referred to a website on waste management practices for understanding garbage disposal systems: #link("https://picvisa.com/waste-management-system/")[https:/​/​picvisa.com/​waste-management-system/​]
 
-  [4] Referred to a website on food safety and standards for understanding preservation and packaging: #link("https://www.myperfectpack.com/post/the-complete-guide-to-food-packaging-safety-and-compliance-powered-by-myperfectpack?srsltid=AfmBOopvBZlh_yKtcrwTehzAVb7PgjcPoUehcZcrqpujPm9G1EaGEsJg")[https:/​/​www.myperfectpack.com/​post/​the-complete-guide-to-food-packaging-safety-and-compliance-powered-by-myperfectpack?​srsltid=​AfmBOopvBZlh_yKtcrwTehzAVb7PgjcPoUehcZcrqpujPm9G1EaGEsJg]
+  [4] Referred to a website on tourism and heritage preservation for understanding sustainable tourism promotion: #link("https://www.unwto.org/sustainable-development")[https:/​/​www.unwto.org/​sustainable-development]
   #set par(justify: false)
 ]

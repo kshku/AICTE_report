@@ -4,10 +4,11 @@
 
 #let completed-activities = (
   (
+    report-num: 1,
     table-num: 1,
-    title: "Helping Schools Improve Academic Outcomes",
-    from: "02/05/2024",
-    to: "21/05/2024",
+    title: "Helping Local Schools to Achieve Good Results and Enhance Enrolment in Higher, Technical and Vocational Education",
+    from: "05/05/2025",
+    to: "17/05/2025",
     weeks: 2,
     hours: 80,
     points: "",
@@ -17,10 +18,11 @@
     has-image: true,
   ),
   (
+    report-num: 2,
     table-num: 15,
     title: "Contributing to National Initiatives (Digital India, Skill India, Swachh Bharat)",
     from: "07/10/2025",
-    to: "07/10/2025",
+    to: "21/10/2025",
     weeks: 2,
     hours: 80,
     points: "",
@@ -30,10 +32,11 @@
     has-image: true,
   ),
   (
+    report-num: 3,
     table-num: 8,
     title: "Facilitating 100% Digitized Money Transactions",
     from: "20/11/2025",
-    to: "20/11/2025",
+    to: "04/12/2025",
     weeks: 2,
     hours: 80,
     points: "",
@@ -43,10 +46,11 @@
     has-image: true,
   ),
   (
+    report-num: 4,
     table-num: 10,
     title: "Managing and Developing Garbage Disposal Systems",
     from: "13/12/2025",
-    to: "13/12/2025",
+    to: "27/12/2025",
     weeks: 2,
     hours: 80,
     points: "",
@@ -56,16 +60,17 @@
     has-image: true,
   ),
   (
+    report-num: 5,
     table-num: 4,
     title: "Tourism Promotion and Innovative Approaches",
     from: "28/12/2025",
-    to: "28/12/2025",
-    weeks: "",
-    hours: "",
+    to: "11/01/2026",
+    weeks: 2,
+    hours: 80,
     points: "",
     image: "/assets/Activity5.jpg",  // NOTE: photo not ready yet, will add later
     caption: "Tourism promotion activity",
     certificate: "/assets/Activity-5-Certificate.pdf",
-    has-image: false,               // no photo yet
+    has-image: true,
   ),
 )

@@ -8,7 +8,7 @@
 
 #text(weight: "bold", size: 16pt)[2.5 Overview]
 
-#h(36pt)This activity was conducted as part of the Swachh Bharat Initiative of the Government of India with the objective of promoting cleanliness, environmental responsibility, and awareness among students and the public. The activity was held at Tannirbhavi Beach, Mangaluru, where students actively participated in maintaining cleanliness and contributing towards a cleaner environment.
+#h(36pt)This activity was conducted as part of the Swachh Bharat Initiative of the Government of India with the objective of promoting cleanliness, environmental responsibility, and awareness among students and the public. The activity was held at Tannirbhavi Beach, Mangaluru, in association with the Department of Tourism, Mangalore, where students actively participated in maintaining cleanliness and contributing towards a cleaner environment.
 
 #h(36pt)The programme focused on creating awareness about the importance of keeping public places and coastal areas clean. During the activity, participants took part in beach cleaning and removal of waste, helping to reduce litter and maintain the cleanliness of the surrounding area.
 

@@ -6,7 +6,7 @@
 
 #h(36pt)In the *Swachh Bharat activity*, active participation in beach cleaning was combined with environmental awareness. Instead of only discussing cleanliness, direct involvement in cleaning the surroundings helped in understanding the importance of responsible waste disposal and environmental protection.
 
-#h(36pt)During the *food preservation and packaging activity*, practical observation at Anitha Oil Mills helped in understanding the actual methods used for food handling, preservation, storage, and packaging. Questions and observations during the activity provided better understanding than theoretical learning alone.
+#h(36pt)In the *garbage disposal activity*, practical observation and discussion at a local residence in interior Vitla helped in understanding household waste management, biogas technology, and renewable energy generation.
 
 #h(36pt)The *tourism promotion activity* focused on innovative methods such as digital promotion, photography, social media awareness, and online information sharing. These approaches demonstrated how technology can be used to promote local cultural and heritage sites to a wider audience.
 
@@ -22,7 +22,7 @@
 
 #h(36pt)For the *Swachh Bharat activity*, information regarding cleanliness, waste disposal, environmental protection, and the importance of maintaining coastal areas was understood beforehand. This helped in recognizing the environmental impact of improper waste disposal.
 
-#h(36pt)For the *food preservation and packaging activity*, basic information about food preservation techniques, packaging methods, hygiene, storage, shelf life, and food safety was studied. This preparation helped in better understanding the processes observed at the food processing unit.
+#h(36pt)For the *garbage disposal activity*, basic information about household waste management, biogas generation, renewable energy, and organic manure was studied. This preparation helped in better understanding the benefits of biogas compost units.
 
 #h(36pt)For the *tourism promotion activity*, information about local tourism, cultural heritage, responsible tourism, and digital methods of promoting tourist destinations was considered. This helped in understanding how technology can be used to increase awareness about local heritage sites.
 
@@ -36,7 +36,7 @@
 
 #h(36pt)The *Swachh Bharat activity* created awareness about environmental responsibility and the importance of keeping public and coastal areas clean. Active participation in the cleanliness activity also developed a better understanding of teamwork and civic responsibility.
 
-#h(36pt)The *food preservation and packaging activity* provided practical knowledge about food handling, preservation, storage, packaging, hygiene, and maintaining product quality. It helped in understanding how industries work to prevent food spoilage and increase shelf life.
+#h(36pt)The *garbage disposal activity* provided practical knowledge about sustainable waste management, biogas generation, renewable energy, and the conversion of organic waste into useful manure.
 
 #h(36pt)The *tourism promotion activity* provided knowledge about the importance of cultural and heritage sites and the role of technology in promoting tourism. It helped in understanding how digital platforms, photography, social media, and online information can be used to attract visitors while encouraging responsible tourism.
 
@@ -69,7 +69,7 @@
 - Including more *practical demonstrations and hands-on activities*.
 - Improving the depth of information provided during awareness sessions.
 - Developing better communication techniques for interacting with different age groups.
-- Gaining more detailed knowledge about food processing and packaging technologies.
+- Gaining more detailed knowledge about waste management and biogas technologies.
 - Improving understanding of advanced digital payment systems and cybersecurity practices.
 - Developing more creative and effective methods for promoting local tourism.
 - Asking more questions and collecting detailed information during field visits.
@@ -84,7 +84,7 @@
 - *Limited awareness about digital payment methods* among some local residents created difficulty in explaining digital transactions. This was managed by providing simple step-by-step explanations and practical guidance.
 - *Difficulty in maintaining active participation* during awareness activities was addressed through direct interaction and practical involvement rather than relying only on theoretical explanations.
 - *Limited time during field activities* made it challenging to understand every aspect in detail. Important processes and observations were prioritized to make the best use of the available time.
-- *Understanding technical and industrial processes* during the food preservation and packaging activity required careful observation. Questions and discussions helped in gaining better clarity.
+- *Understanding technical processes* during the garbage disposal and biogas activity required careful observation. Questions and discussions helped in gaining better clarity.
 - *Initial hesitation while interacting with unfamiliar people* was gradually overcome through continuous participation and communication during the different activities.
 - *Coordinating different tasks and activities* required proper planning and prioritization, which helped ensure smooth completion of the programme.
 
@@ -92,7 +92,7 @@
 
 #h(36pt)The overall experience received positive and encouraging responses. The school students showed interest in learning about *higher education, career opportunities, and problem-solving*. The Swachh Bharat activity provided a meaningful experience through direct participation in maintaining cleanliness and creating environmental awareness.
 
-#h(36pt)The food preservation and packaging activity was useful in providing practical exposure to *industrial food processing, preservation, packaging, and hygiene practices*. The tourism activity helped in understanding the importance of local heritage and innovative digital methods for tourism promotion. The digital transaction activity created awareness about *UPI, QR-code payments, mobile banking, and secure digital transactions* among local users.
+#h(36pt)The garbage disposal activity was useful in providing practical exposure to *sustainable household waste management, biogas generation, and renewable energy practices*. The tourism activity helped in understanding the importance of local heritage and innovative digital methods for tourism promotion. The digital transaction activity created awareness about *UPI, QR-code payments, mobile banking, and secure digital transactions* among local users.
 
 #h(36pt)Based on the experience gained, the following improvements can be considered for future activities:
 

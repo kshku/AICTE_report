@@ -13,7 +13,7 @@ I extend my sincere thanks to *Dr. Deepak K B,* AICTE Activity Points Coordinato
 
 #v(1em)
 
-I am thankful to *Akanksha Charitable Trust, Puttur*, *Tannirbhavi Beach, Mangaluru*, *Anitha Oil Mills, Puttur*, *Shri Mahalingeshwara Temple, Puttur* and *Trinity General Store & Vegetables, Nehru Nagara, Puttur* for providing meaningful volunteering opportunities and necessary support for the successful execution of the activities.
+I am thankful to *Akanksha Charitable Trust, Puttur*, the *Department of Tourism, Mangalore*, and the *local rickshaw drivers* for providing meaningful volunteering opportunities and necessary support for the successful execution of the activities.
 
 #v(1em)
 

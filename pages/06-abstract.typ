@@ -11,14 +11,12 @@ The *AICTE Activity Point Programme* is a structured initiative designed to conn
 
 *Activity 2* involved a contribution to the *Swachh Bharat Initiative* at *Tannirbhavi Beach, Mangaluru*. The activity included active participation in maintaining cleanliness and creating awareness about proper waste disposal and environmental protection. It helped develop a sense of civic responsibility and highlighted the importance of protecting public and coastal environments.
 
-*Activity 3* addressed *facilitating 100% digitized money transactions*. Awareness was created about *UPI, QR-code payments, mobile banking, and other digital payment methods*. Basic safety practices and the benefits of cashless transactions were also explained, helping promote digital literacy and financial awareness.
+*Activity 3* addressed *facilitating 100% digitized money transactions* among local rickshaw drivers. Awareness was created about *UPI, QR-code payments, mobile banking, and other digital payment methods*. Basic safety practices and the benefits of cashless transactions were also explained, helping promote digital literacy and financial awareness.
 
-/*
-*Activity 4* focused on *tourism promotion through innovative approaches* at *Shri Mahaalingeshwara Temple, Puttur*. The activity emphasized the cultural and heritage significance of local tourist destinations and explored the use of digital platforms, photography, social media, and online information to promote tourism. The importance of responsible tourism and preservation of cultural heritage was also understood.
-*Activity 5* focused on *food preservation and packaging* through practical exposure at *Anitha Oil Mills, Puttur*. The activity provided an understanding of food preservation, storage, hygiene, packaging methods, and techniques used to maintain food quality and increase shelf life. It also created awareness about reducing food wastage through proper preservation and packaging.
-*/
+*Activity 4* focused on *managing and developing garbage disposal systems* at a local residence in *interior Vitla*. The activity introduced biogas compost units as a sustainable method for waste disposal, renewable energy generation, and production of organic manure.
+*Activity 5* focused on *tourism promotion and innovative approaches* at *Shri Anjaneya Temple, Bolwar, Puttur*. The activity involved exploring and documenting a lesser-known heritage site and understanding the use of digital awareness, photography, online information sharing, and social media promotion.
 
-Overall, these five activities provided meaningful practical and community-based learning experiences. They enhanced awareness about education, environmental protection, food safety, cultural heritage, and digital financial systems while developing essential skills such as communication, teamwork, problem-solving, adaptability, and social responsibility.
+Overall, these five activities provided meaningful practical and community-based learning experiences. They enhanced awareness about education, environmental protection, digital financial systems, sustainable waste management, renewable energy, and cultural heritage while developing essential skills such as communication, teamwork, problem-solving, adaptability, and social responsibility.
 
 #set par(justify: false)
 
