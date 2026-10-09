@@ -32,7 +32,7 @@
   [#text(weight: "bold")[Managing and Developing Garbage Disposal Systems]], [#text(weight: "bold")[09]],
   [2.13  Overview], [09],
   [2.14  Use of Technology], [09],
-  [2.15  Sustainable Development Best Practices], [09],
+  [2.15  Sustainable Development Best Practices], [10],
   [2.16  Outcome of the Activity], [10],
   [#text(weight: "bold")[Tourism Promotion and Innovative Approaches]], [#text(weight: "bold")[11]],
   [2.17  Overview], [11],
@@ -55,5 +55,5 @@
   [4.5 Activity 5: Tourism Promotion and Innovative Approaches], [22],
   [#text(weight: "bold", 14pt)[CHAPTER 5]], [#text(weight: "bold", 14pt)[23]],
   [5.1 Conclusion], [23],
-  [#text(weight: "bold")[REFERENCES]], [#text(weight: "bold")[25]],
+  [#text(weight: "bold")[REFERENCES]], [#text(weight: "bold")[24]],
 )
