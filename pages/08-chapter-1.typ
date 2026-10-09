@@ -4,9 +4,9 @@
 #pagebreak()
 #chapter-page(start: 1)[
 
-  #chapter-heading[CHAPTER 1]
+  #chapter-heading[CHAPTER 1] <ch1>
 
-  #align(center, text(weight: "bold", size: 18pt)[INTRODUCTION])
+  #align(center, text(weight: "bold", size: 18pt)[INTRODUCTION]) <intro>
 
   #set par(justify: true, spacing: 32pt, first-line-indent: 0pt)
 #set list(indent: 18pt, body-indent: 14pt)

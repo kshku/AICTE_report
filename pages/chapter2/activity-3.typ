@@ -1,12 +1,12 @@
 #import "../../theme/styles.typ": *
 #import "../../theme/components.typ": activity-title
 
-#activity-title(centered: true)[Facilitating 100% Digitized Money Transactions]
+#activity-title(centered: true)[Facilitating 100% Digitized Money Transactions] <act3>
 
 #set par(justify: true, spacing: 32pt, first-line-indent: 0pt)
 #set list(indent: 18pt, body-indent: 14pt)
 
-= 2.9 Overview
+= 2.9 Overview <s2-9>
 
 As part of the AICTE Activity Point Programme, this activity promoted awareness of electronic payments and the practical use of cashless transactions. Titled "Facilitating 100% Digitized Money Transactions," it was conducted among local rickshaw drivers and commenced on 20-11-2025.
 
@@ -20,7 +20,7 @@ The initiative helped promote the adoption of digital payment practices in the l
 
 Overall, the activity contributed towards promoting a cashless and digitally empowered community and helped participants understand the practical benefits of adopting digital payment methods in their everyday lives.
 
-= 2.10 Use of Technology
+= 2.10 Use of Technology <s2-10>
 
 #block(spacing: 12pt)[Several digital payment technologies were demonstrated during the activity. The following technological aspects were covered:]
 
@@ -31,7 +31,7 @@ Overall, the activity contributed towards promoting a cashless and digitally emp
 - Use of smartphones and internet connectivity for electronic transactions.
 - Creating awareness about digital payment security, including protecting UPI PINs and transaction details.
 
-= 2.11 Sustainable Development Best Practices
+= 2.11 Sustainable Development Best Practices <s2-11>
 
 #block(spacing: 12pt)[The activity supported the following sustainable development practices:]
 
@@ -44,7 +44,7 @@ Overall, the activity contributed towards promoting a cashless and digitally emp
 - Supporting SDG 9 – Industry, Innovation and Infrastructure through the adoption of digital technologies.
 - Encouraging financial and technological literacy within the local community.
 
-= 2.12 Outcome of the Activity
+= 2.12 Outcome of the Activity <s2-12>
 
 The activity successfully created awareness about digital payment methods and cashless transactions among the rickshaw drivers and local residents. Participants gained practical knowledge of UPI, QR-code payments, mobile banking, and basic digital payment security. The programme encouraged the adoption of convenient, efficient, and technology-driven financial transactions and contributed towards building a more digitally aware and financially inclusive community.
 

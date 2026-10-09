@@ -1,12 +1,12 @@
 #import "../../theme/styles.typ": *
 #import "../../theme/components.typ": activity-title
 
-#activity-title(centered: true)[Contribution to Swachh Bharat Initiative – Beach Cleanliness and Environmental Awareness]
+#activity-title(centered: true)[Contribution to Swachh Bharat Initiative – Beach Cleanliness and Environmental Awareness] <act2>
 
 #set par(justify: true, spacing: 32pt, first-line-indent: 0pt)
 #set list(indent: 18pt, body-indent: 14pt)
 
-= 2.5 Overview
+= 2.5 Overview <s2-5>
 
 Under the Government of India's Swachh Bharat Initiative, this activity was organized at Tannirbhavi Beach, Mangaluru, in association with the Department of Tourism, Mangalore. Its purpose was to encourage cleanliness, civic participation, and environmental responsibility among students and members of the public.
 
@@ -18,7 +18,7 @@ Active participation in the Swachh Bharat activity helped develop a sense of soc
 
 Overall, the activity successfully promoted the objectives of the Swachh Bharat Mission by encouraging cleanliness, responsible waste disposal, and awareness about protecting public and natural spaces.
 
-= 2.6 Use of Technology
+= 2.6 Use of Technology <s2-6>
 
 #block(spacing: 12pt)[Digital devices and online platforms were used to document the activity and extend awareness beyond the participants. The following technological aspects were applied:]
 
@@ -28,7 +28,7 @@ Overall, the activity successfully promoted the objectives of the Swachh Bharat 
 - Use of digital media to spread awareness about maintaining clean beaches and public places.
 - Use of photographs and digital documentation to encourage participation in similar activities.
 
-= 2.7 Sustainable Development Best Practices
+= 2.7 Sustainable Development Best Practices <s2-7>
 
 #block(spacing: 12pt)[The activity contributed towards the following sustainable development practices:]
 
@@ -40,7 +40,7 @@ Overall, the activity successfully promoted the objectives of the Swachh Bharat 
 - Developing a sense of civic and environmental responsibility among students.
 - Encouraging community participation in cleanliness and environmental conservation activities.
 
-= 2.8 Outcome of the Activity
+= 2.8 Outcome of the Activity <s2-8>
 
 The activity successfully contributed to maintaining the cleanliness of Tannirbhavi Beach, Mangaluru, while creating awareness about environmental protection and responsible waste management. Participation in the programme improved students' teamwork, civic responsibility, environmental awareness, and commitment towards maintaining clean public spaces. The activity also encouraged participants to adopt sustainable practices and contribute to a cleaner and healthier environment.
 

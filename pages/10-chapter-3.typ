@@ -3,7 +3,7 @@
 
 #chapter-page[
 
-  #chapter-heading[CHAPTER 3]
+  #chapter-heading[CHAPTER 3] <ch3>
 
   #align(center, text(weight: "bold", size: 18pt)[OVERALL LEARNINGS])
 

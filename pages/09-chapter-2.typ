@@ -3,7 +3,7 @@
 
 #chapter-page[
 
-  #chapter-heading[CHAPTER 2]
+  #chapter-heading[CHAPTER 2] <ch2>
 
   #include "chapter2/activity-1.typ"
   #pagebreak()

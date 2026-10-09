@@ -2,7 +2,7 @@
 
 #chapter-page[
 
-  #align(center, text(weight: "bold", size: 18pt)[REFERENCES])
+  #align(center, text(weight: "bold", size: 18pt)[REFERENCES]) <refs>
 
   #set par(justify: true, spacing: 32pt, first-line-indent: 0pt)
   #set enum(numbering: n => "[" + str(n) + "]")

@@ -1,12 +1,12 @@
 #import "../../theme/styles.typ": *
 #import "../../theme/components.typ": activity-title
 
-#activity-title(centered: true)[Managing and Developing Garbage Disposal Systems]
+#activity-title(centered: true)[Managing and Developing Garbage Disposal Systems] <act4>
 
 #set par(justify: true, spacing: 32pt, first-line-indent: 0pt)
 #set list(indent: 18pt, body-indent: 14pt)
 
-= 2.13 Overview
+= 2.13 Overview <s2-13>
 
 This activity was undertaken through the AICTE Activity Point Programme to study practical household-level waste management. It was conducted at a residence in interior Vitla under the title "Managing and Developing Garbage Disposal Systems," with particular attention to the possible installation and use of a biogas compost unit.
 
@@ -18,7 +18,7 @@ Biogas systems can reduce dependence on firewood and LPG while lowering disposal
 
 Overall, the activity contributed towards promoting sustainable household waste management and encouraged the adoption of environmentally responsible practices for garbage disposal in local communities.
 
-= 2.14 Use of Technology
+= 2.14 Use of Technology <s2-14>
 
 #block(spacing: 12pt)[During the activity, the following technological aspects were explained and demonstrated to the participants:]
 
@@ -29,7 +29,7 @@ Overall, the activity contributed towards promoting sustainable household waste 
 - Understanding the role of organic manure produced by biogas systems in supporting sustainable agriculture.
 - Encouraging the use of locally available materials for setting up low-cost waste management systems.
 
-= 2.15 Sustainable Development Best Practices
+= 2.15 Sustainable Development Best Practices <s2-15>
 
 #block(spacing: 12pt)[The activity also contributed towards the following sustainable development practices:]
 
@@ -42,7 +42,7 @@ Overall, the activity contributed towards promoting sustainable household waste 
 - Promoting circular economy principles by converting waste into useful energy and manure.
 - Creating awareness about the long-term environmental and economic benefits of biogas systems.
 
-= 2.16 Outcome of the Activity
+= 2.16 Outcome of the Activity <s2-16>
 
 The activity successfully created awareness about sustainable garbage disposal systems and the benefits of biogas compost units among the household members. Participants gained practical understanding of how biogas technology works, its advantages for waste reduction, energy generation, and environmental protection. The activity encouraged the adoption of environmentally responsible waste management practices and highlighted the importance of using renewable energy solutions at the household level.
 

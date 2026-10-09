@@ -1,4 +1,4 @@
-= 3.1 Innovative Approaches Taken
+= 3.1 Innovative Approaches Taken <s3-1>
 
 During the execution of the five AICTE Activity Point Programme activities, several practical and interactive approaches were adopted to make the activities more effective. Instead of limiting the activities to theoretical explanations, direct interaction, demonstrations, field participation, and practical observation were used wherever possible.
 
@@ -14,7 +14,7 @@ In the digital money transaction activity, awareness was combined with practical
 
 These approaches made the activities more interactive, practical, and community-oriented, while also helping in connecting academic learning with real-world situations.
 
-= 3.2 Research Done
+= 3.2 Research Done <s3-2>
 
 Basic research and preparation were carried out before participating in the activities to ensure better understanding and effective interaction.
 
@@ -28,7 +28,7 @@ For the tourism promotion activity, information about local tourism, cultural he
 
 For the digital transaction activity, different digital payment methods such as UPI, QR-code payments, mobile banking, and online transactions were studied along with their benefits and basic security practices. This made it easier to explain digital transactions in a simple and practical manner.
 
-= 3.3 Knowledge and Understanding Gained
+= 3.3 Knowledge and Understanding Gained <s3-3>
 
 The five activities provided practical knowledge in different areas and helped in developing a better understanding of how theoretical concepts can be applied in real-life situations.
 
@@ -44,7 +44,7 @@ The digital money transaction activity provided practical knowledge about digita
 
 Overall, these activities improved practical knowledge, communication skills, teamwork, environmental awareness, digital literacy, and social responsibility.
 
-= 3.4 Professional Values and Best Practices Incorporated
+= 3.4 Professional Values and Best Practices Incorporated <s3-4>
 
 During the activities, several professional values and best practices were followed to ensure that the work was completed effectively and responsibly.
 
@@ -61,7 +61,7 @@ During the activities, several professional values and best practices were follo
 - Promoting responsible use of technology, particularly during digital payment awareness.
 - Maintaining a positive, responsible, and professional attitude throughout the activities.
 
-= 3.5 Areas for Further Development
+= 3.5 Areas for Further Development <s3-5>
 
 #block(spacing: 12pt)[The activities also helped identify areas where further improvement can be made:]
 
@@ -76,7 +76,7 @@ During the activities, several professional values and best practices were follo
 - Improving time management during activities and discussions.
 - Expanding future activities to reach a larger number of students and community members.
 
-= 3.6 Challenges and Solutions
+= 3.6 Challenges and Solutions <s3-6>
 
 #block(spacing: 12pt)[Several challenges were encountered during the activities, and suitable approaches were adopted to overcome them.]
 
@@ -88,7 +88,7 @@ During the activities, several professional values and best practices were follo
 - Initial hesitation while interacting with unfamiliar people was gradually overcome through continuous participation and communication during the different activities.
 - Coordinating different tasks and activities required proper planning and prioritization, which helped ensure smooth completion of the programme.
 
-= 3.7 Feedback and Continuous Improvement
+= 3.7 Feedback and Continuous Improvement <s3-7>
 
 The overall experience received positive and encouraging responses. The school students showed interest in learning about higher education, career opportunities, and problem-solving. The Swachh Bharat activity provided a meaningful experience through direct participation in maintaining cleanliness and creating environmental awareness.
 

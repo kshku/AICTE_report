@@ -1,12 +1,12 @@
 #import "../../theme/styles.typ": *
 #import "../../theme/components.typ": activity-title
 
-#activity-title(centered: true)[Tourism Promotion and Innovative Approaches]
+#activity-title(centered: true)[Tourism Promotion and Innovative Approaches] <act5>
 
 #set par(justify: true, spacing: 32pt, first-line-indent: 0pt)
 #set list(indent: 18pt, body-indent: 14pt)
 
-= 2.17 Overview
+= 2.17 Overview <s2-17>
 
 Through the AICTE Activity Point Programme, this activity examined ways to promote local tourism while respecting sustainability and heritage. The work, titled "Tourism Promotion and Innovative Approaches," was carried out at Shri Anjaneya Temple, Bolwar, Puttur, a lesser-known religious and historical site.
 
@@ -18,7 +18,7 @@ The activity also emphasized the importance of responsible tourism. Participants
 
 This activity demonstrated that technology and creative communication can work together with cultural awareness and responsible practices to promote local tourism and preserve neglected heritage locations.
 
-= 2.18 Use of Technology
+= 2.18 Use of Technology <s2-18>
 
 #block(spacing: 12pt)[The activity involved the use of various digital tools and methods to document and promote the heritage site. The following technological aspects were applied during the activity:]
 
@@ -29,7 +29,7 @@ This activity demonstrated that technology and creative communication can work t
 - Use of websites and online platforms to provide information about tourist attractions, facilities, and travel routes.
 - Encouraging digital promotion to reach a wider audience and increase awareness of local tourism.
 
-= 2.19 Sustainable Development Best Practices
+= 2.19 Sustainable Development Best Practices <s2-19>
 
 #block(spacing: 12pt)[The activity supported the following sustainable development practices:]
 
@@ -42,7 +42,7 @@ This activity demonstrated that technology and creative communication can work t
 - Supporting SDG 11 – Sustainable Cities and Communities through preservation of cultural and heritage sites.
 - Encouraging environmentally responsible tourism practices to reduce negative impacts on local surroundings.
 
-= 2.20 Outcome of the Activity
+= 2.20 Outcome of the Activity <s2-20>
 
 The activity provided valuable knowledge about the importance of tourism promotion, cultural heritage preservation, and sustainable tourism practices. Participants gained an understanding of how digital technology and innovative promotional methods can be used to increase awareness of local tourist destinations. The activity also encouraged the exploration and documentation of lesser-known heritage sites and highlighted the potential of tourism to support local communities and economic development.
 
