@@ -61,12 +61,18 @@
 }
 
 #let chapter-heading(label) = align(left)[
-  #text(weight: "bold", size: 16pt)[#label]
+  #text(weight: "bold", size: 15pt)[#label]
 ]
 
 #let activity-title(label, centered: false) = align(if centered {center} else {left})[
-  #text(weight: "bold", size: 18pt)[#label]
+  #text(weight: "bold", size: 17pt)[#label]
 ]
+
+// Scoped `#show heading` rule for the chapters. The block spacing values are
+// tuned per chapter so the heading-adjacent gaps match the reference page by
+// page (body->heading and heading->body stay uniform, while the chapter-opening
+// banner/title gaps are handled with `#v()` in the page files).
+#let heading-style(above: 24.9pt, below: 15.6pt) = it => block(above: above, below: below)[#text(weight: "bold", size: 15pt)[#it.body]]
 
 #let chapter-page(body, start: none) = {
   set page(
@@ -75,6 +81,7 @@
     header: chapter-header(),
     footer: chapter-footer(),
   )
+  set par(leading: 11.4pt)
   if start != none {
     counter(page).update(start)
   }

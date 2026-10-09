@@ -1,4 +1,7 @@
+#v(1.4pt)
 = 3.1 Innovative Approaches Taken <s3-1>
+
+#v(4.7pt)
 
 During the execution of the five AICTE Activity Point Programme activities, several practical and interactive approaches were adopted to make the activities more effective. Instead of limiting the activities to theoretical explanations, direct interaction, demonstrations, field participation, and practical observation were used wherever possible.
 

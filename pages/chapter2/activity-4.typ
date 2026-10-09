@@ -3,9 +3,10 @@
 
 #activity-title(centered: true)[Managing and Developing Garbage Disposal Systems] <act4>
 
-#set par(justify: true, spacing: 32pt, first-line-indent: 0pt)
+#set par(justify: true, spacing: 24.8pt, first-line-indent: 0pt)
 #set list(indent: 18pt, body-indent: 14pt)
 
+#v(-7.4pt)
 = 2.13 Overview <s2-13>
 
 This activity was undertaken through the AICTE Activity Point Programme to study practical household-level waste management. It was conducted at a residence in interior Vitla under the title "Managing and Developing Garbage Disposal Systems," with particular attention to the possible installation and use of a biogas compost unit.

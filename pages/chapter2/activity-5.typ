@@ -3,9 +3,10 @@
 
 #activity-title(centered: true)[Tourism Promotion and Innovative Approaches] <act5>
 
-#set par(justify: true, spacing: 32pt, first-line-indent: 0pt)
+#set par(justify: true, spacing: 24.8pt, first-line-indent: 0pt)
 #set list(indent: 18pt, body-indent: 14pt)
 
+#v(-7.4pt)
 = 2.17 Overview <s2-17>
 
 Through the AICTE Activity Point Programme, this activity examined ways to promote local tourism while respecting sustainability and heritage. The work, titled "Tourism Promotion and Innovative Approaches," was carried out at Shri Anjaneya Temple, Bolwar, Puttur, a lesser-known religious and historical site.

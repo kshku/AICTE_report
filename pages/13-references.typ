@@ -2,10 +2,11 @@
 
 #chapter-page[
 
-  #align(center, text(weight: "bold", size: 18pt)[REFERENCES]) <refs>
+  #align(center, text(weight: "bold", size: 17pt)[REFERENCES]) <refs>
 
-  #set par(justify: true, spacing: 32pt, first-line-indent: 0pt)
-  #set enum(numbering: n => "[" + str(n) + "]")
+  #v(-7.6pt)
+  #set par(justify: true, spacing: 24.8pt, leading: 10.6pt, first-line-indent: 0pt)
+  #set enum(numbering: n => "[" + str(n) + "]", spacing: 10.7pt)
   #show link: it => underline(text(fill: rgb("#3737ff"), it))
 
   + Referred to an article titled "Career Options After 10th" on career guidance after schooling to guide students: #link("https://en.vikaspedia.in/viewcontent/education/career-guidance/career-options/career-options-after-10th?lgn=en")[https://en.vikaspedia.in/viewcontent/education/career-guidance/career-options/career-options-after-10th?lgn=en]

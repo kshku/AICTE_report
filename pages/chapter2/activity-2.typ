@@ -3,9 +3,10 @@
 
 #activity-title(centered: true)[Contribution to Swachh Bharat Initiative – Beach Cleanliness and Environmental Awareness] <act2>
 
-#set par(justify: true, spacing: 32pt, first-line-indent: 0pt)
+#set par(justify: true, spacing: 24.8pt, first-line-indent: 0pt)
 #set list(indent: 18pt, body-indent: 14pt)
 
+#v(-7.4pt)
 = 2.5 Overview <s2-5>
 
 Under the Government of India's Swachh Bharat Initiative, this activity was organized at Tannirbhavi Beach, Mangaluru, in association with the Department of Tourism, Mangalore. Its purpose was to encourage cleanliness, civic participation, and environmental responsibility among students and members of the public.

@@ -3,9 +3,10 @@
 
 #activity-title(centered: true)[Helping Local Schools to Achieve Good Results and Enhance Enrolment in Higher, Technical and Vocational Education] <act1>
 
-#set par(justify: true, spacing: 32pt, first-line-indent: 0pt)
+#set par(justify: true, spacing: 24.8pt, first-line-indent: 0pt)
 #set list(indent: 18pt, body-indent: 14pt)
 
+#v(-7.4pt)
 = 2.1 Overview <s2-1>
 
 As part of a summer camp organized by Akanksha Charitable Trust, Puttur, with VCET, Puttur, and Tata Consultancy Services (TCS), this activity supported the educational development of rural students. It was held from 05-05-2025 to 17-05-2025 and aimed to introduce useful digital skills while motivating students to think about higher education and future careers.

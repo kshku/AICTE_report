@@ -6,10 +6,10 @@
 
   #chapter-heading[CHAPTER 1] <ch1>
 
-  #v(-6.3pt)
-  #align(center, text(weight: "bold", size: 18pt)[INTRODUCTION]) <intro>
+  #v(-4.5pt)
+  #align(center, text(weight: "bold", size: 17pt)[INTRODUCTION]) <intro>
 
-  #v(-15.3pt)
+  #v(-13.6pt)
   #set par(justify: true, leading: 11.4pt, spacing: 31pt, first-line-indent: 0pt)
 #set list(indent: 18pt, body-indent: 14pt)
 

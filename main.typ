@@ -11,20 +11,13 @@
 // Section headings are native `= ` headings so Typst applies widow/orphan
 // control (a heading is never left alone at the foot of a page).
 //
-// This rule must live HERE, not in theme/styles.typ: every page file does
-// `#import "../theme/styles.typ": *`, and Typst's `import` only brings in
-// `let` bindings -- set/show rules in an imported module are never applied.
-// It restores the manual look (16pt bold) and pins the two heading-adjacent
-// gaps to the same values used everywhere else. `below: 12pt` was measured to
-// land every heading->body gap on a single 22.8pt value (Typst adds ~8pt of
-// leading on top of the block spacing, so 12pt + ~10.8pt = 22.8pt); any smaller
-// value splits the headings into two clusters 12pt apart, because headings that
-// open with a `#block(spacing: 12pt)` lead-in get that block's spacing on top of
-// this one. `above: 32pt` gives the same 40pt blank line as a paragraph break.
-// The block() must WRAP the heading body: `#show heading: set block(..)`
-// has no effect on heading spacing.
-#show heading: it => block(above: 32pt, below: 12pt)[#text(weight: "bold", size: 16pt)[#it.body]]
-
+// The `#show heading` rule lives per-chapter inside each chapter page file
+// (via `heading-style()` from theme/components.typ) so heading-adjacent gaps can
+// match the reference chapter by chapter. It must NOT live in theme/styles.typ:
+// every page file does `#import "../theme/styles.typ": *`, and Typst's `import`
+// only brings in `let` bindings -- set/show rules in an imported module are
+// never applied. The block() must WRAP the heading body: `#show heading: set
+// block(..)` has no effect on heading spacing.
 #include "pages/01-title.typ"
 
 #include "pages/02-certificate.typ"

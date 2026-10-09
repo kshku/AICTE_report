@@ -3,9 +3,10 @@
 
 #activity-title(centered: true)[Facilitating 100% Digitized Money Transactions] <act3>
 
-#set par(justify: true, spacing: 32pt, first-line-indent: 0pt)
+#set par(justify: true, spacing: 24.8pt, first-line-indent: 0pt)
 #set list(indent: 18pt, body-indent: 14pt)
 
+#v(-7.4pt)
 = 2.9 Overview <s2-9>
 
 As part of the AICTE Activity Point Programme, this activity promoted awareness of electronic payments and the practical use of cashless transactions. Titled "Facilitating 100% Digitized Money Transactions," it was conducted among local rickshaw drivers and commenced on 20-11-2025.

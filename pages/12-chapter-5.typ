@@ -1,19 +1,21 @@
 #import "../theme/styles.typ": 
-#import "../theme/components.typ": chapter-page, chapter-heading
+#import "../theme/components.typ": chapter-page, chapter-heading, heading-style
 
 #chapter-page[
 
+  #show heading: heading-style(above: 24.9pt, below: 24.3pt)
+
   #chapter-heading[CHAPTER 5] <ch5>
 
-  #v(3mm)
-  #align(center, text(weight: "bold", size: 18pt)[CONCLUSION])
+  #v(-11.1pt)
+  #align(center, text(weight: "bold", size: 17pt)[CONCLUSION])
 
-  #set par(justify: true, spacing: 32pt, first-line-indent: 0pt)
+  #v(-4.1pt)
+
+  #set par(justify: true, spacing: 31pt, first-line-indent: 0pt)
 #set list(indent: 18pt, body-indent: 14pt)
 
 = 5.1 Conclusion <s5-1>
-
-  #v(4mm)
 
   The AICTE Activity Point Programme offered a useful bridge between academic knowledge and community work. The five activities provided experience in digital education, environmental awareness, financial technology, household waste management, and local tourism.
 
