@@ -27,8 +27,8 @@
   #text(fill: b, weight: "bold")[JNANA SANGAMA, BELAGAVI- 590 018]
 ]
 
-// --- VTU logo (92.04 x 119.4 pt at x 268.92) ---
-#place(dx: 268.92pt, dy: 106.44pt, image("/assets/vtu_logo.png", width: 92.04pt, height: 119.4pt, fit: "stretch"))
+// --- VTU logo (image extracted from the reference title page) ---
+#place(dx: 268.92pt, dy: 106.44pt, image("/assets/vtu-logo-ref.png", width: 92.04pt, height: 119.4pt, fit: "stretch"))
 
 #place(center + top, dy: Y(227.8, 12))[#text(fill: b, weight: "bold")["AICTE Activity Point Programme"]]
 
@@ -49,8 +49,8 @@
 #place(center + top, dy: Y(473.9, 12))[#text(fill: b, weight: "bold")[Dr. Deepak K B]]
 #place(center + top, dy: Y(488.6, 12))[#text(fill: b, weight: "bold")[Associate Professor]]
 
-// --- college logo: reference visible-content box (no white padding) ---
-#place(dx: 244.92pt, dy: 522.48pt, image("/assets/vcet-logo-trim.png", width: 134.23pt, height: 97.8pt, fit: "stretch"))
+// --- college logo: image extracted from the reference title page ---
+#place(dx: 244.92pt, dy: 517.68pt, image("/assets/vcet-logo1-ref.png", width: 140.04pt, height: 102.6pt, fit: "stretch"))
 
 // horizontal rule above the department block
 #place(dx: 70.56pt, dy: 625.44pt, line(length: 471pt, stroke: 1.44pt))
