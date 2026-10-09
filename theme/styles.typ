@@ -13,6 +13,6 @@
 #let body-size = 11.5pt
 
 #let report-page = (
-  paper: "a4",
-  margin: (top: 26mm, right: 25.4mm, bottom: 20mm, left: 19mm),
+  paper: "us-letter",
+  margin: (top: 65.5pt, right: 94.2pt, bottom: 73.7pt, left: 110.2pt),
 )

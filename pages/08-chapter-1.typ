@@ -6,9 +6,11 @@
 
   #chapter-heading[CHAPTER 1] <ch1>
 
+  #v(-6.3pt)
   #align(center, text(weight: "bold", size: 18pt)[INTRODUCTION]) <intro>
 
-  #set par(justify: true, spacing: 32pt, first-line-indent: 0pt)
+  #v(-15.3pt)
+  #set par(justify: true, leading: 11.4pt, spacing: 31pt, first-line-indent: 0pt)
 #set list(indent: 18pt, body-indent: 14pt)
 
   The AICTE Activity Point Programme is an initiative that encourages students to participate in activities beyond regular classroom learning and gain practical exposure through community-based and socially relevant activities. The programme helps students connect their academic knowledge with real-world situations while developing essential skills such as communication, teamwork, problem-solving, leadership, technical awareness, and social responsibility.

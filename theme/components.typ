@@ -29,25 +29,30 @@
   ]
 ]
 
-#let frame-rule-color = rgb("#622423")
+#let frame-rule-color = rgb("#5f1f1f")
 
-#let frame-double-rule() = {
-  line(length: 100%, stroke: 0.75pt + frame-rule-color)
-  v(-1.45em)
-  line(length: 100%, stroke: 3pt + frame-rule-color)
-}
+#let frame-double-rule() = box(width: 100%, height: 5.4pt)[
+  #place(top + left, rect(width: 100%, height: 3pt, fill: frame-rule-color))
+  #place(top + left, dy: 4.6pt, rect(width: 100%, height: 0.75pt, fill: frame-rule-color))
+]
 
 #let chapter-header() = {
   set text(size: 10pt)
-  align(right)[2026-27]
-  v(-5pt)
+  grid(
+    columns: (1fr, auto),
+    align(left)[AICTE ACTIVITY POINTS REPORT],
+    align(right)[2026-27],
+  )
+  v(-10.2pt)
   frame-double-rule()
+  v(-17.38pt)
 }
 
 #let chapter-footer() = {
   set text(size: 10pt)
+  v(-6.73pt)
   frame-double-rule()
-  v(-5pt)
+  v(-9.3pt)
   grid(
     columns: (1fr, auto),
     align(left)[Department of Artificial Intelligence & Machine Learning, V. C. E. T, Puttur.],
@@ -66,6 +71,7 @@
 #let chapter-page(body, start: none) = {
   set page(
     numbering: "1",
+    margin: (top: 68.1pt, right: 94.2pt, bottom: 73.7pt, left: 110.2pt),
     header: chapter-header(),
     footer: chapter-footer(),
   )
