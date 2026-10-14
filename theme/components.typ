@@ -50,7 +50,7 @@
 
 #let chapter-footer() = {
   set text(size: 10pt)
-  v(-6.73pt)
+  v(-16.73pt)
   frame-double-rule()
   v(-9.3pt)
   grid(
@@ -77,7 +77,7 @@
 #let chapter-page(body, start: none) = {
   set page(
     numbering: "1",
-    margin: (top: 68.1pt, right: 94.2pt, bottom: 73.7pt, left: 110.2pt),
+    margin: (top: 68.1pt, right: 94.2pt, bottom: 62pt, left: 110.2pt),
     header: chapter-header(),
     footer: chapter-footer(),
   )

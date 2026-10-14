@@ -13,7 +13,7 @@ In the garbage disposal activity, practical observation and discussion at a loca
 
 The tourism promotion activity focused on innovative methods such as digital promotion, photography, social media awareness, and online information sharing. These approaches demonstrated how technology can be used to promote local cultural and heritage sites to a wider audience.
 
-In the digital money transaction activity, awareness was combined with practical guidance on UPI, QR-code payments, mobile banking, and other digital payment methods. This helped in understanding the actual difficulties faced by people while adopting digital payment systems.
+In the digital money transaction activity, awareness was combined with practical guidance on UPI, QR-code payments, and mobile banking. This helped in understanding the difficulties faced by people while adopting digital payments.
 
 These approaches made the activities more interactive, practical, and community-oriented, while also helping in connecting academic learning with real-world situations.
 
@@ -35,9 +35,7 @@ For the digital transaction activity, different digital payment methods such as 
 
 The five activities provided practical knowledge in different areas and helped in developing a better understanding of how theoretical concepts can be applied in real-life situations.
 
-The school guidance activity provided an understanding of the importance of early career awareness and proper educational guidance. It also helped in developing the ability to communicate information according to the age and understanding level of students.
-
-The Swachh Bharat activity created awareness about environmental responsibility and the importance of keeping public and coastal areas clean. Active participation in the cleanliness activity also developed a better understanding of teamwork and civic responsibility.
+The school guidance activity created awareness about early career planning and proper educational guidance. It also helped in communicating information according to the understanding level of students. The Swachh Bharat activity created awareness about environmental responsibility and the importance of keeping public and coastal areas clean.
 
 The garbage disposal activity provided practical knowledge about sustainable waste management, biogas generation, renewable energy, and the conversion of organic waste into useful manure.
 
@@ -84,8 +82,8 @@ During the activities, several professional values and best practices were follo
 #block(spacing: 12pt)[Several challenges were encountered during the activities, and suitable approaches were adopted to overcome them.]
 
 - Different levels of understanding among school students made it difficult to explain certain concepts uniformly. This was addressed by using simple language, examples, discussions, and logical activities.
-- Limited awareness about digital payment methods among some local residents created difficulty in explaining digital transactions. This was managed by providing simple step-by-step explanations and practical guidance.
-- Difficulty in maintaining active participation during awareness activities was addressed through direct interaction and practical involvement rather than relying only on theoretical explanations.
+- Limited awareness about digital payment methods among local residents made transactions difficult to explain. This was managed with simple step-by-step practical guidance.
+- Difficulty in maintaining active participation during awareness activities was addressed through direct interaction instead of theory.
 - Limited time during field activities made it challenging to understand every aspect in detail. Important processes and observations were prioritized to make the best use of the available time.
 - Understanding technical processes during the garbage disposal and biogas activity required careful observation. Questions and discussions helped in gaining better clarity.
 - Initial hesitation while interacting with unfamiliar people was gradually overcome through continuous participation and communication during the different activities.

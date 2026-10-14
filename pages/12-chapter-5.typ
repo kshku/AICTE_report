@@ -27,6 +27,8 @@
 
   These activities not only enhanced practical knowledge but also helped in developing essential skills such as responsibility, communication, teamwork, adaptability, creativity, and problem-solving. The interaction with students, local people, and different organizations improved confidence and provided valuable experience in handling real-life situations.
 
+  The programme also strengthened the ability to plan, organize, and execute activities within limited time and resources. Working with school students, local residents, and community members provided practical lessons in cooperation, patience, and adaptability. Participating in these activities improved the ability to communicate ideas clearly to different audiences and to work effectively as part of a team. It also created greater awareness of the challenges faced by local communities and the role of education, technology, and collective effort in addressing them.
+
   Overall, the programme served as a meaningful learning experience that bridged the gap between academic knowledge and practical application. It encouraged a responsible and practical approach towards learning and created awareness about the importance of education, environmental protection, sustainable waste management, cultural heritage, and digital technology. The activities also highlighted the importance of using knowledge and skills to contribute positively to society and support sustainable development.
 
   #set par(justify: false)
