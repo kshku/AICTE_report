@@ -19,7 +19,7 @@
   #align(center, image("/assets/Activity1.jpg", width: 150mm))
 
   #v(3mm)
-  #align(center, underline(text(size: 11.5pt, weight: "bold")[Training session with rural students at Akanksha Charitable Trust, Puttur]))
+  #align(center, underline(text(size: 11.5pt, weight: "bold")[Figure 4.1: Training session with rural students at Akanksha Charitable Trust, Puttur]))
 
   #v(1fr)
 ]
@@ -33,7 +33,7 @@
   #align(center, image("/assets/Activity2.jpg", width: 150mm))
 
   #v(3mm)
-  #align(center, underline(text(size: 11.5pt, weight: "bold")[Beach cleanliness drive at Tannirbhavi Beach]))
+  #align(center, underline(text(size: 11.5pt, weight: "bold")[Figure 4.2: Beach cleanliness drive at Tannirbhavi Beach]))
 
   #v(1fr)
 ]
@@ -47,7 +47,7 @@
   #align(center, image("/assets/Activity3.jpg", width: 110mm))
 
   #v(3mm)
-  #align(center, underline(text(size: 11.5pt, weight: "bold")[Digital transaction awareness activity among local rickshaw drivers]))
+  #align(center, underline(text(size: 11.5pt, weight: "bold")[Figure 4.3: Digital transaction awareness activity among local rickshaw drivers]))
 
   #v(1fr)
 ]
@@ -61,7 +61,7 @@
   #align(center, image("/assets/Activity4.jpg", width: 120mm))
 
   #v(3mm)
-  #align(center, underline(text(size: 11.5pt, weight: "bold")[Awareness on household waste management and biogas compost units]))
+  #align(center, underline(text(size: 11.5pt, weight: "bold")[Figure 4.4: Awareness on household waste management and biogas compost units]))
 
   #v(1fr)
 ]
@@ -75,7 +75,7 @@
   #align(center, image("/assets/Activity5.jpg", width: 120mm))
 
   #v(3mm)
-  #align(center, underline(text(size: 11.5pt, weight: "bold")[Documentation of Shri Anjaneya Temple, Bolwar, Puttur]))
+  #align(center, underline(text(size: 11.5pt, weight: "bold")[Figure 4.5: Documentation of Shri Anjaneya Temple, Bolwar, Puttur]))
 
   #v(1fr)
 ]
