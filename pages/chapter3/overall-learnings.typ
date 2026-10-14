@@ -106,4 +106,6 @@ The garbage disposal activity was useful in providing practical exposure to sust
 - Improving planning and time management for better execution.
 - Encouraging greater community participation in future social and environmental activities.
 
+The feedback received during the different activities helped in identifying both strengths and areas that require improvement. Positive responses from participants encouraged the continuation of such community-based activities, while suggestions highlighted the need for better planning, more interactive sessions, and greater community involvement. These observations will help in designing more effective and relevant activities in the future. Continuous improvement based on this feedback will benefit both the students and the local community.
+
 Overall, the five activities provided valuable opportunities for practical learning, community interaction, social responsibility, and personal development, making the AICTE Activity Point Programme a meaningful learning experience.
