@@ -53,7 +53,7 @@
 #C(0, 619.9)[Prof. Nidhishree M P]
 #C(1, 619.9)[Dr. Radhika Shetty D S]
 #C(2, 619.9)[Dr. Deepak K B]
-#C(3, 619.9)[Dr. Mahesh Prasanna K]
+#C(3, 619.9)[Dr. Purushotham Chippar]
 #C(0, 639.4)[Faculty Incharge,]
 #C(1, 639.4)[HOD]
 #C(2, 640.2)[AICTE activity points]

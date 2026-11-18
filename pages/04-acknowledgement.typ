@@ -26,7 +26,7 @@
 ])
 
 #ack-para(114.7)[
-  I extend my heartfelt gratitude to the *Management*, along with *Dr. Mahesh Prasanna K*, Principal of *Vivekananda College of Engineering & Technology, Puttur*, *Dr. Radhika Shetty D S*, HOD of *Artificial Intelligence & Machine Learning* and *Prof. Nidhishree M P*, AICTE Activity Points Department Coordinator at *Vivekananda College of Engineering & Technology, Puttur*, for their unwavering support and provision of essential resources for the successful execution of this program.
+  I extend my heartfelt gratitude to the *Management*, along with *Dr. Purushotham Chippar*, Principal of *Vivekananda College of Engineering & Technology, Puttur*, *Dr. Radhika Shetty D S*, HOD of *Artificial Intelligence & Machine Learning* and *Prof. Nidhishree M P*, AICTE Activity Points Department Coordinator at *Vivekananda College of Engineering & Technology, Puttur*, for their unwavering support and provision of essential resources for the successful execution of this program.
 ]
 
 #ack-para(255.8)[
