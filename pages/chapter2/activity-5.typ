@@ -1,7 +1,7 @@
 #import "../../theme/styles.typ": *
 #import "../../theme/components.typ": activity-title
 
-#activity-title(centered: true)[Tourism Promotion and Innovative Approaches] <act5>
+#activity-title(centered: true)[Contribution to Swachh Bharat Initiative – Beach Cleanliness and Environmental Awareness] <act5>
 
 #set par(justify: true, spacing: 24.8pt, first-line-indent: 0pt)
 #set list(indent: 18pt, body-indent: 14pt)
@@ -9,42 +9,40 @@
 #v(-7.4pt)
 = 2.17 Overview <s2-17>
 
-Through the AICTE Activity Point Programme, this activity examined ways to promote local tourism while respecting sustainability and heritage. The work, titled "Tourism Promotion and Innovative Approaches," was carried out at Shri Anjaneya Temple, Bolwar, Puttur, a lesser-known religious and historical site.
+Under the Government of India's Swachh Bharat Initiative, this activity was organized at Tannirbhavi Beach, Mangaluru, in association with the Department of Tourism, Mangalore. Its purpose was to encourage cleanliness, civic participation, and environmental responsibility among students and members of the public.
 
-The main intention was to bring attention to the historical, cultural, and religious value of heritage places that are often overlooked. Although the temple is old and culturally significant, its potential as a heritage and tourism destination has not been widely recognized.
+Participants cleaned the beach and removed accumulated waste, gaining a direct understanding of the effort required to maintain public and coastal spaces. The activity also highlighted how litter affects the appearance and health of such places.
 
-The temple's architecture, background, and cultural importance were observed and documented. The activity considered photography, digital awareness, online information sharing, and social media as practical ways to introduce lesser-known destinations to a wider audience.
+Discussions during the programme explained the damage caused by careless disposal, especially to marine and coastal ecosystems. Students were encouraged to practise proper waste management and influence people around them to keep shared spaces clean.
 
-The activity also emphasized the importance of responsible tourism. Participants were encouraged to understand the need to maintain cleanliness, respect local traditions, protect heritage structures, and support the local community while promoting tourism.
+Active participation in the Swachh Bharat activity helped develop a sense of social responsibility, environmental awareness, teamwork, and civic responsibility among the participants. The programme emphasized that maintaining cleanliness is a collective responsibility and that small individual efforts can contribute significantly to environmental protection.
 
-This activity demonstrated that technology and creative communication can work together with cultural awareness and responsible practices to promote local tourism and preserve neglected heritage locations.
+Overall, the activity successfully promoted the objectives of the Swachh Bharat Mission by encouraging cleanliness, responsible waste disposal, and awareness about protecting public and natural spaces.
 
 = 2.18 Use of Technology <s2-18>
 
-#block(spacing: 12pt)[The activity involved the use of various digital tools and methods to document and promote the heritage site. The following technological aspects were applied during the activity:]
+#block(spacing: 12pt)[Digital devices and online platforms were used to document the activity and extend awareness beyond the participants. The following technological aspects were applied:]
 
-- Use of photography and digital documentation to record the architectural and cultural features of the temple.
-- Use of social media platforms to promote lesser-known tourist destinations and cultural heritage sites.
-- Use of online maps and digital navigation tools to improve accessibility for visitors.
-- Creation and sharing of digital information about the history and cultural importance of the heritage site.
-- Use of websites and online platforms to provide information about tourist attractions, facilities, and travel routes.
-- Encouraging digital promotion to reach a wider audience and increase awareness of local tourism.
+- Use of mobile phones and cameras to document the cleanliness activity.
+- Use of digital platforms to create awareness about cleanliness and environmental protection.
+- Use of online resources to understand the Swachh Bharat Initiative and proper waste management.
+- Use of digital media to spread awareness about maintaining clean beaches and public places.
+- Use of photographs and digital documentation to encourage participation in similar activities.
 
 = 2.19 Sustainable Development Best Practices <s2-19>
 
-#block(spacing: 12pt)[The activity supported the following sustainable development practices:]
+#block(spacing: 12pt)[The activity contributed towards the following sustainable development practices:]
 
-- Promoting sustainable and responsible tourism while preserving local culture and heritage.
-- Creating awareness about the importance of protecting historical and religious sites.
-- Encouraging visitors to maintain cleanliness and avoid littering at heritage destinations.
-- Supporting local communities and businesses through responsible tourism activities.
-- Promoting cultural heritage and traditional practices among visitors and younger generations.
-- Supporting SDG 8 – Decent Work and Economic Growth through tourism-related local opportunities.
-- Supporting SDG 11 – Sustainable Cities and Communities through preservation of cultural and heritage sites.
-- Encouraging environmentally responsible tourism practices to reduce negative impacts on local surroundings.
+- Promoting clean and healthy surroundings through active participation in beach cleaning.
+- Supporting SDG 11 – Sustainable Cities and Communities by encouraging cleaner and more sustainable public spaces.
+- Supporting SDG 14 – Life Below Water by reducing waste and pollution in coastal areas.
+- Creating awareness about the harmful effects of plastic and other waste on marine ecosystems.
+- Encouraging responsible waste disposal and environmentally friendly habits.
+- Developing a sense of civic and environmental responsibility among students.
+- Encouraging community participation in cleanliness and environmental conservation activities.
 
 = 2.20 Outcome of the Activity <s2-20>
 
-The activity provided valuable knowledge about the importance of tourism promotion, cultural heritage preservation, and sustainable tourism practices. Participants gained an understanding of how digital technology and innovative promotional methods can be used to increase awareness of local tourist destinations. The activity also encouraged the exploration and documentation of lesser-known heritage sites and highlighted the potential of tourism to support local communities and economic development.
+The activity successfully contributed to maintaining the cleanliness of Tannirbhavi Beach, Mangaluru, while creating awareness about environmental protection and responsible waste management. Participation in the programme improved students' teamwork, civic responsibility, environmental awareness, and commitment towards maintaining clean public spaces. The activity also encouraged participants to adopt sustainable practices and contribute to a cleaner and healthier environment.
 
 #set par(justify: false)

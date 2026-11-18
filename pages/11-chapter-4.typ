@@ -27,13 +27,13 @@
 #pagebreak()
 #chapter-page[
 
-= 4.2 Activity 2: Contribution to Swachh Bharat Initiative – Beach Cleanliness and Environmental Awareness <s4-2>
+= 4.2 Activity 2: Tourism Promotion and Innovative Approaches <s4-2>
 
   #v(4mm)
-  #align(center, image("/assets/Activity2.jpg", width: 150mm))
+  #align(center, image("/assets/Activity5.jpg", width: 120mm))
 
   #v(3mm)
-  #align(center, underline(text(size: 11.5pt, weight: "bold")[Figure 4.2: Beach cleanliness drive at Tannirbhavi Beach]))
+  #align(center, underline(text(size: 11.5pt, weight: "bold")[Figure 4.2: Documentation of Shri Anjaneya Temple, Bolwar, Puttur]))
 
   #v(1fr)
 ]
@@ -69,13 +69,13 @@
 #pagebreak()
 #chapter-page[
 
-= 4.5 Activity 5: Tourism Promotion and Innovative Approaches <s4-5>
+= 4.5 Activity 5: Contribution to Swachh Bharat Initiative – Beach Cleanliness and Environmental Awareness <s4-5>
 
   #v(4mm)
-  #align(center, image("/assets/Activity5.jpg", width: 120mm))
+  #align(center, image("/assets/Activity2.jpg", width: 150mm))
 
   #v(3mm)
-  #align(center, underline(text(size: 11.5pt, weight: "bold")[Figure 4.5: Documentation of Shri Anjaneya Temple, Bolwar, Puttur]))
+  #align(center, underline(text(size: 11.5pt, weight: "bold")[Figure 4.5: Beach cleanliness drive at Tannirbhavi Beach]))
 
   #v(1fr)
 ]

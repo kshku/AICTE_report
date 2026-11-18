@@ -7,13 +7,13 @@ During the execution of the five AICTE Activity Point Programme activities, seve
 
 During the school education and career guidance activity, simple explanations, real-life examples, discussions, and logical problem-solving exercises were used to make the sessions interesting for students. The approach was adapted according to the students' level of understanding so that they could easily understand higher education opportunities and career choices.
 
-In the Swachh Bharat activity, active participation in beach cleaning was combined with environmental awareness. Instead of only discussing cleanliness, direct involvement in cleaning the surroundings helped in understanding the importance of responsible waste disposal and environmental protection.
-
-In the garbage disposal activity, practical observation and discussion at a local residence in interior Vitla helped in understanding household waste management, biogas technology, and renewable energy generation.
-
 The tourism promotion activity focused on innovative methods such as digital promotion, photography, social media awareness, and online information sharing. These approaches demonstrated how technology can be used to promote local cultural and heritage sites to a wider audience.
 
 In the digital money transaction activity, awareness was combined with practical guidance on UPI, QR-code payments, and mobile banking. This helped in understanding the difficulties faced by people while adopting digital payments.
+
+In the garbage disposal activity, practical observation and discussion at a local residence in interior Vitla helped in understanding household waste management, biogas technology, and renewable energy generation.
+
+In the Swachh Bharat activity, active participation in beach cleaning was combined with environmental awareness. Instead of only discussing cleanliness, direct involvement in cleaning the surroundings helped in understanding the importance of responsible waste disposal and environmental protection.
 
 These approaches made the activities more interactive, practical, and community-oriented, while also helping in connecting academic learning with real-world situations.
 
@@ -23,25 +23,25 @@ Basic research and preparation were carried out before participating in the acti
 
 For the school student guidance activity, information about higher education, different educational streams, career opportunities, and future planning was studied. This helped in providing students with clear and useful guidance.
 
-For the Swachh Bharat activity, information regarding cleanliness, waste disposal, environmental protection, and the importance of maintaining coastal areas was understood beforehand. This helped in recognizing the environmental impact of improper waste disposal.
-
-For the garbage disposal activity, basic information about household waste management, biogas generation, renewable energy, and organic manure was studied. This preparation helped in better understanding the benefits of biogas compost units.
-
 For the tourism promotion activity, information about local tourism, cultural heritage, responsible tourism, and digital methods of promoting tourist destinations was considered. This helped in understanding how technology can be used to increase awareness about local heritage sites.
 
 For the digital transaction activity, different digital payment methods such as UPI, QR-code payments, mobile banking, and online transactions were studied along with their benefits and basic security practices. This made it easier to explain digital transactions in a simple and practical manner.
+
+For the garbage disposal activity, basic information about household waste management, biogas generation, renewable energy, and organic manure was studied. This preparation helped in better understanding the benefits of biogas compost units.
+
+For the Swachh Bharat activity, information regarding cleanliness, waste disposal, environmental protection, and the importance of maintaining coastal areas was understood beforehand. This helped in recognizing the environmental impact of improper waste disposal.
 
 = 3.3 Knowledge and Understanding Gained <s3-3>
 
 The five activities provided practical knowledge in different areas and helped in developing a better understanding of how theoretical concepts can be applied in real-life situations.
 
-The school guidance activity created awareness about early career planning and proper educational guidance. It also helped in communicating information according to the understanding level of students. The Swachh Bharat activity created awareness about environmental responsibility and the importance of keeping public and coastal areas clean.
+The school guidance activity created awareness about early career planning and proper educational guidance. It also helped in communicating information according to the understanding level of students. The tourism promotion activity provided knowledge about the importance of cultural and heritage sites and the role of technology in promoting tourism. It helped in understanding how digital platforms, photography, social media, and online information can be used to attract visitors while encouraging responsible tourism.
+
+The digital money transaction activity provided practical knowledge about digital financial systems and their use in everyday transactions. It helped in understanding the advantages of cashless payments, the challenges faced by users, and the importance of digital payment security.
 
 The garbage disposal activity provided practical knowledge about sustainable waste management, biogas generation, renewable energy, and the conversion of organic waste into useful manure.
 
-The tourism promotion activity provided knowledge about the importance of cultural and heritage sites and the role of technology in promoting tourism. It helped in understanding how digital platforms, photography, social media, and online information can be used to attract visitors while encouraging responsible tourism.
-
-The digital money transaction activity provided practical knowledge about digital financial systems and their use in everyday transactions. It helped in understanding the advantages of cashless payments, the challenges faced by users, and the importance of digital payment security.
+The Swachh Bharat activity created awareness about environmental responsibility and the importance of keeping public and coastal areas clean.
 
 Overall, these activities improved practical knowledge, communication skills, teamwork, environmental awareness, digital literacy, and social responsibility.
 
@@ -70,9 +70,9 @@ During the activities, several professional values and best practices were follo
 - Including more practical demonstrations and hands-on activities.
 - Improving the depth of information provided during awareness sessions.
 - Developing better communication techniques for interacting with different age groups.
-- Gaining more detailed knowledge about waste management and biogas technologies.
-- Improving understanding of advanced digital payment systems and cybersecurity practices.
 - Developing more creative and effective methods for promoting local tourism.
+- Improving understanding of advanced digital payment systems and cybersecurity practices.
+- Gaining more detailed knowledge about waste management and biogas technologies.
 - Asking more questions and collecting detailed information during field visits.
 - Improving time management during activities and discussions.
 - Expanding future activities to reach a larger number of students and community members.
@@ -91,9 +91,9 @@ During the activities, several professional values and best practices were follo
 
 = 3.7 Feedback and Continuous Improvement <s3-7>
 
-The overall experience received positive and encouraging responses. The school students showed interest in learning about higher education, career opportunities, and problem-solving. The Swachh Bharat activity provided a meaningful experience through direct participation in maintaining cleanliness and creating environmental awareness.
+The overall experience received positive and encouraging responses. The school students showed interest in learning about higher education, career opportunities, and problem-solving. The tourism activity helped in understanding the importance of local heritage and innovative digital methods for tourism promotion. The digital transaction activity created awareness about UPI, QR-code payments, mobile banking, and secure digital transactions among local users.
 
-The garbage disposal activity was useful in providing practical exposure to sustainable household waste management, biogas generation, and renewable energy practices. The tourism activity helped in understanding the importance of local heritage and innovative digital methods for tourism promotion. The digital transaction activity created awareness about UPI, QR-code payments, mobile banking, and secure digital transactions among local users.
+The garbage disposal activity was useful in providing practical exposure to sustainable household waste management, biogas generation, and renewable energy practices. The Swachh Bharat activity provided a meaningful experience through direct participation in maintaining cleanliness and creating environmental awareness.
 
 #block(spacing: 12pt)[Based on the experience gained, the following improvements can be considered for future activities:]
 

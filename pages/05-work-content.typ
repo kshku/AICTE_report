@@ -90,7 +90,7 @@
   let p = r.split("–")
   (p.at(0).trim().replace("-", "/"), p.at(1).trim().replace("-", "/"))
 }
-#let rows = ((top: 139.8, i: 0), (top: 224.4, i: 4), (top: 319.3, i: 2), (top: 375.8, i: 3), (top: 512.5, i: 1))
+#let rows = ((top: 139.8, i: 0), (top: 224.4, i: 1), (top: 319.3, i: 2), (top: 375.8, i: 3), (top: 512.5, i: 4))
 #for r in rows {
   let dp = dateparts(acts.at(r.i).date-range)
   L(280.8, r.top + 1.1)[#dp.at(0) –]

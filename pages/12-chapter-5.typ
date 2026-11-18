@@ -21,9 +21,13 @@
 
   At the Summer Camp at Vivekananda College of Engineering and Technology, Puttur, rural students received practical exposure to HTML, CSS, Canva, Office Tools, G-Suite, and SDGs. Guidance on higher education and hackathon participation also encouraged creativity, communication, teamwork, and problem-solving.
 
-  The Swachh Bharat activity at Tannirbhavi Beach made the importance of cleanliness and coastal protection more tangible through direct participation. At a residence in interior Vitla, the garbage disposal activity introduced biogas, renewable energy, and the conversion of organic waste into manure.
+  The tourism promotion activity at Shri Anjaneya Temple, Bolwar, Puttur provided an understanding of the importance of cultural heritage and innovative approaches for promoting local tourism.
 
-  The tourism promotion activity at Shri Anjaneya Temple, Bolwar, Puttur provided an understanding of the importance of cultural heritage and innovative approaches for promoting local tourism. The digital money transaction activity among local rickshaw drivers helped in understanding the use of UPI, QR-code payments, mobile banking, and the importance of digital literacy and secure cashless transactions.
+  The digital money transaction activity among local rickshaw drivers helped in understanding the use of UPI, QR-code payments, mobile banking, and the importance of digital literacy and secure cashless transactions.
+
+  At a residence in interior Vitla, the garbage disposal activity introduced biogas, renewable energy, and the conversion of organic waste into manure.
+
+  The Swachh Bharat activity at Tannirbhavi Beach made the importance of cleanliness and coastal protection more tangible through direct participation.
 
   These activities not only enhanced practical knowledge but also helped in developing essential skills such as responsibility, communication, teamwork, adaptability, creativity, and problem-solving. The interaction with students, local people, and different organizations improved confidence and provided valuable experience in handling real-life situations.
 
