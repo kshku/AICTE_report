@@ -32,7 +32,7 @@
 #place(dx: 96.1pt, dy: Y(325.8, 11.5), block(width: 420.4pt)[
   #set par(justify: true, leading: 12.65pt)
   #set text(hyphenate: false)
-  This is to certify that the *AICTE Activity Point Programme* has been successfully carried out by *#name-title #name* bearing *USN #usn,* bonafide student of *Vivekananda College of Engineering & Technology, Puttur* in partial fulfillment of the requirements for the award of degree of *Artificial Intelligence & Machine Learning* of *Visvesvaraya Technological University, Belagavi* during year *2026-27*.
+  This is to certify that the *AICTE Activity Point Programme* has been successfully carried out by *#name-title #name* bearing *USN #usn,* bonafide student of *Vivekananda College of Engineering & Technology, Puttur* in partial fulfillment of the requirements for the award of degree of *Artificial Intelligence & Machine Learning* of *Visvesvaraya Technological University, Belagavi* during year *2023-27*.
 ])
 
 // --- body paragraph 2 (justified) ---

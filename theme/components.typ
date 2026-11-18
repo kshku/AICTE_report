@@ -41,7 +41,7 @@
   grid(
     columns: (1fr, auto),
     align(left)[AICTE ACTIVITY POINTS REPORT],
-    align(right)[2026-27],
+    align(right)[2023-27],
   )
   v(-10.2pt)
   frame-double-rule()
