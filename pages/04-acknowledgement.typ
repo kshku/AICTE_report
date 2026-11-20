@@ -18,7 +18,7 @@
 // --- heading (18pt bold) ---
 #place(dx: 211.7pt, dy: Y(69.8, 18))[#text(size: 18pt, weight: "bold")[ACKNOWLEDGEMENT]]
 
-// --- body (three paragraphs, each at its reference line-top) ---
+// --- body (paragraphs, each at its reference line-top) ---
 #let ack-para(y, body) = place(dx: 72pt, dy: Y(y, 12), block(width: 468.4pt)[
   #set par(justify: true, leading: 13.4pt)
   #set text(size: 12pt, hyphenate: false)
@@ -26,15 +26,15 @@
 ])
 
 #ack-para(114.7)[
-  I extend my heartfelt gratitude to the *Management*, along with *Dr. Purushothama Chippar*, Principal of *Vivekananda College of Engineering & Technology, Puttur*, *Dr. Radhika Shetty D S*, HOD of *Artificial Intelligence & Machine Learning* and *Prof. Nidhishree M P*, AICTE Activity Points Department Coordinator at *Vivekananda College of Engineering & Technology, Puttur*, for their unwavering support and provision of essential resources for the successful execution of this program.
+  I express my heartfelt gratitude to the *Management* of *Vivekananda College of Engineering & Technology (VCET), Puttur*, for providing the necessary support and resources for the successful completion of my AICTE Activity Point Programme. I sincerely thank *Dr. Purushothama Chippar*, Principal, VCET, Puttur, for his valuable guidance and encouragement. I am also grateful to *Dr. Radhika Shetty D S*, Head of the Department of *Artificial Intelligence & Machine Learning*, for her constant support and guidance throughout the programme.
 ]
 
-#ack-para(255.8)[
-  I am also deeply thankful Akanksha Charitable Trust / Department of Tourism, Mangalore / Local rickshaw drivers / A local residence, interior Vitla / Shri Anjaneya Temple, Bolwar, Puttur for their invaluable support in offering meaningful volunteering opportunities and resources.
+#ack-para(240.0)[
+  I extend my sincere thanks to *Dr. Deepak K B*, AICTE Activity Points Coordinator of the College, and *Prof. Nidhishree M P*, AICTE Activity Points Department Coordinator, for their valuable coordination, guidance, and support. I am thankful to *Akanksha Charitable Trust, Puttur*, *Shri Anjaneya Temple, Bolwar, Puttur*, the *local rickshaw drivers*, a *local residence in interior Vitla*, and the *Department of Tourism, Mangalore* for providing meaningful opportunities and necessary support for the successful execution of the activities.
 ]
 
-#ack-para(333.0)[
-  Lastly, I would like to express my sincere appreciation and respect to my parents, the teaching and non-teaching staff of the Department, and all my friends who have supported me, directly or indirectly, throughout my AICTE Activity Point Programme journey.
+#ack-para(365.0)[
+  Finally, I express my sincere gratitude to my parents, the teaching and non-teaching staff, and my friends for their constant encouragement and support throughout my AICTE Activity Point Programme journey. I sincerely acknowledge everyone who contributed to making this programme a successful and enriching experience.
 ]
 
 // --- signature ---
