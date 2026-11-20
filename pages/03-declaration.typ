@@ -33,7 +33,7 @@
 #place(dx: 96.1pt, dy: Y(347.1, 11.5), block(width: 420.5pt)[
   #set par(justify: true, leading: 11.95pt)
   #set text(hyphenate: false)
-  #h(11.9pt)I, *#name-title #name* bearing the *USN*:*#usn*, student of Bachelor of Engineering in *Artificial Intelligence & Machine Learning, Vivekananda College of Engineering & Technology, Puttur ,* hereby declare that the *AICTE Activity Point Programme* work has been carried out by me under the supervision and guidance of Department Staff Coordinators submitted by me as a partial fulfillment for the award of *Bachelor of Engineering* degree in *Artificial Intelligence & Machine Learning* from *Visvesvaraya Technological University, Belagavi* during year *2023-27.*
+  #h(11.9pt)I, *#name-title #name* bearing the *USN*:*#usn*, student of Bachelor of Engineering in *Artificial Intelligence & Machine Learning, Vivekananda College of Engineering & Technology, Puttur,* hereby declare that the *AICTE Activity Point Programme* work has been carried out by me under the supervision and guidance of Department Staff Coordinators submitted by me as a partial fulfillment for the award of *Bachelor of Engineering* degree in *Artificial Intelligence & Machine Learning* from *Visvesvaraya Technological University, Belagavi* during year *2023-27.*
 ])
 
 #place(dx: 96.1pt, dy: Y(505.8, 11.5), block(width: 420.5pt)[
