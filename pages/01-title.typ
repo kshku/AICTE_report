@@ -60,6 +60,6 @@
 #place(center + top, dy: Y(662.5, 10))[#text(size: 10pt)[[A Unit of Vivekananda Vidyavardhaka Sangha, Puttur (R)]]]
 #place(center + top, dy: Y(675.6, 9))[#text(fill: rgb("#0000FF"), size: 9pt)[Affiliated to Visvesvaraya Technological University and Approved by AICTE New Delhi & Govt. of Karnataka]]
 #place(center + top, dy: Y(687.5, 11.5))[#text(size: 11.5pt)[Nehru Nagara, Puttur – 574 203, DK, Karnataka, India]]
-#place(center + top, dy: Y(703.4, 12))[#text(fill: red, weight: "bold")[MAY 2027]]
+#place(center + top, dy: Y(703.4, 12))[#text(fill: red, weight: "bold")[NOVEMBER 2026]]
 
 #pagebreak()
