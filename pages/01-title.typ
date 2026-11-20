@@ -47,7 +47,7 @@
 
 #place(center + top, dy: Y(459.0, 12))[#text(fill: red, weight: "bold")[AICTE Co-ordinator of the College]]
 #place(center + top, dy: Y(473.9, 12))[#text(fill: b, weight: "bold")[Dr. Deepak K B]]
-#place(center + top, dy: Y(488.6, 12))[#text(fill: b, weight: "bold")[Associate Professor]]
+#place(center + top, dy: Y(488.6, 12))[#text(fill: b, weight: "bold")[Professor]]
 
 // --- college logo: image extracted from the reference title page ---
 #place(dx: 244.92pt, dy: 517.68pt, image("/assets/vcet-logo1-ref.png", width: 140.04pt, height: 102.6pt, fit: "stretch"))
