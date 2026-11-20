@@ -16,19 +16,19 @@
 // `place` is relative to the content area (inside the page margins).
 #place(left + top, dx: 249.8pt - 71.4pt, dy: Y(91.6, 14) - 127.53pt)[#text(weight: "bold", size: 14pt)[ABSTRACT]]
 
-The AICTE Activity Point Programme connects classroom learning with service-oriented work in the community. It gives students an opportunity to learn from real situations while strengthening communication, teamwork, problem-solving, environmental awareness, digital literacy, and social responsibility.
+The AICTE Activity Point Programme is a structured non-credit initiative aimed at connecting academic learning with community engagement and societal development. It focuses on developing practical skills, teamwork, communication, environmental responsibility, and social awareness through participation in real-world activities.
 
-Activity 1 supported rural students through a Summer Camp at Vivekananda College of Engineering and Technology (VCET), Puttur. Training in HTML, CSS, Canva, Office Tools, G-Suite, and SDGs was combined with guidance on higher education, careers, and future planning. Hackathon guidance further encouraged problem-solving, teamwork, communication, and digital skills.
+Activity 1 involved helping local schools to achieve good results and enhance enrolment in higher, technical, and vocational education through a summer camp at Vivekananda College of Engineering and Technology, Puttur, organized by Akanksha Charitable Trust, Puttur, with VCET and Tata Consultancy Services (TCS). The activity provided rural students with practical exposure to HTML, CSS, Canva, Office Tools, G-Suite, and the Sustainable Development Goals (SDGs), along with guidance on higher education, career opportunities, and hackathon participation.
 
-Activity 2 focused on tourism promotion and innovative approaches at Shri Anjaneya Temple, Bolwar, Puttur. The activity involved exploring and documenting a lesser-known heritage site and understanding the use of digital awareness, photography, online information sharing, and social media promotion.
+Activity 2 focused on tourism promotion and innovative approaches through a visit to Shri Anjaneya Temple, Bolwar, Puttur. The activity involved exploring and documenting a lesser-known heritage site and understanding how digital awareness, photography, online information sharing, and social media can be used to promote local cultural and religious tourism while encouraging responsible tourism practices.
 
-Activity 3 addressed 100% digitized money transactions among local rickshaw drivers. The activity demonstrated UPI, QR-code payments, mobile banking, and other digital payment methods, along with basic security precautions and the advantages of cashless transactions.
+Activity 3 dealt with facilitating 100% digitized money transactions among local rickshaw drivers. The activity provided practical exposure to digital payment methods such as UPI, QR-code payments, and mobile banking, and helped in understanding the importance of digital literacy, basic security precautions, and the advantages of cashless transactions in everyday life.
 
-Activity 4 focused on managing and developing garbage disposal systems at a local residence in interior Vitla. The activity introduced biogas compost units as a sustainable method for waste disposal, renewable energy generation, and production of organic manure.
+Activity 4 addressed managing and developing garbage disposal systems at a local residence in interior Vitla. The activity provided practical understanding of household waste management through a biogas compost unit, highlighting its role in sustainable waste disposal, renewable energy generation, and the production of organic manure.
 
-Activity 5 contributed to the Swachh Bharat Initiative at Tannirbhavi Beach, Mangaluru. Students participated in cleaning the beach and discussed responsible waste disposal, civic duty, and the protection of coastal environments.
+Activity 5 focused on contributing to the Swachh Bharat Initiative through a beach cleanliness and environmental awareness activity at Tannirbhavi Beach, Mangaluru, in association with the Department of Tourism, Mangalore. The activity involved active participation in cleaning the beach and created awareness about proper waste disposal, civic responsibility, and the protection of coastal and marine environments.
 
-Overall, these five activities provided meaningful practical and community-based learning experiences. They enhanced awareness about education, environmental protection, digital financial systems, sustainable waste management, renewable energy, and cultural heritage while developing essential skills such as communication, teamwork, problem-solving, adaptability, and social responsibility.
+These activities helped in enhancing practical knowledge, improving awareness of educational, environmental, financial, and societal issues, and developing essential skills such as teamwork, communication, problem-solving, responsibility, and social awareness.
 
 #pagebreak()
 #set page(..report-page)
